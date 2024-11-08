@@ -1,0 +1,43 @@
+﻿@using Umbraco.Cms.Web.Common.PublishedModels;
+@inherits Umbraco.Cms.Web.Common.Views.UmbracoViewPage
+@{
+	Layout = null;
+	IEmailTemplate emailTemplate;
+	string langCode = Request.QueryString["lang"];
+	if (!string.IsNullOrEmpty(langCode))
+	{
+		string[] cultureCodes = Umbraco.UmbracoContext.PublishedContentRequest.Culture.Name.Split('-');
+
+		string countryCode = (Request.QueryString["country"] ?? cultureCodes[1]).ToUpper();
+		Context.SetCountryIso2Code(countryCode);
+
+		langCode = Request.QueryString["lang"];
+		emailTemplate = Umbraco.FindEmailTemplate(langCode, Model.Content);
+	}
+	else
+	{
+		emailTemplate = Model.Content;
+	}
+
+	string format = Request.QueryString["format"] ?? "html";
+	switch (format)
+	{
+		case "html":
+			Response.ContentType = "text/html; charset=utf-8";
+			@Html.Partial("EmailHtmlTemplate", emailTemplate.Body)
+			break;
+		case "json":
+			Response.ContentType = "application/json; charset=utf-8";
+			EmailMessageData emailTemplateData = EmailTemplateHelpers.GetEmailTemplate(emailTemplate, html =>
+			{
+				var htmlBody = Html.Partial("EmailHtmlTemplate", html).ToHtmlString();
+				htmlBody = htmlBody.IfNullOrWhiteSpace(null).Safe(v => Convert.ToBase64String(Encoding.UTF8.GetBytes(v)));
+				return htmlBody;
+			});
+			string json = JsonConvert.SerializeObject(emailTemplateData, Formatting.Indented);
+			Response.Write(json);
+			break;
+		default:
+			throw new NotSupportedException(string.Format("Output format type '{0}' is not supported", format));
+	}
+}

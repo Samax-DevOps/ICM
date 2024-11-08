@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\ICM\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{62A7AAB9-16D1-4E8F-8CF0-C81EBA667228}|ICM.WebSites\\ICM.WebSites.csproj|c:\\icm\\icm.websites\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62A7AAB9-16D1-4E8F-8CF0-C81EBA667228}|ICM.WebSites\\ICM.WebSites.csproj|solutionrelative:icm.websites\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62A7AAB9-16D1-4E8F-8CF0-C81EBA667228}|ICM.WebSites\\ICM.WebSites.csproj|c:\\icm\\icm.websites\\icm.websites.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{62A7AAB9-16D1-4E8F-8CF0-C81EBA667228}|ICM.WebSites\\ICM.WebSites.csproj|solutionrelative:icm.websites\\icm.websites.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62A7AAB9-16D1-4E8F-8CF0-C81EBA667228}|ICM.WebSites\\ICM.WebSites.csproj|c:\\icm\\icm.websites\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{62A7AAB9-16D1-4E8F-8CF0-C81EBA667228}|ICM.WebSites\\ICM.WebSites.csproj|solutionrelative:icm.websites\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\ICM\\ICM.WebSites\\appsettings.json",
+              "RelativeDocumentMoniker": "ICM.WebSites\\appsettings.json",
+              "ToolTip": "C:\\ICM\\ICM.WebSites\\appsettings.json",
+              "RelativeToolTip": "ICM.WebSites\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-29T05:00:32.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\ICM\\ICM.WebSites\\Program.cs",
+              "RelativeDocumentMoniker": "ICM.WebSites\\Program.cs",
+              "ToolTip": "C:\\ICM\\ICM.WebSites\\Program.cs",
+              "RelativeToolTip": "ICM.WebSites\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T05:00:28.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ICM.WebSites.csproj",
+              "DocumentMoniker": "C:\\ICM\\ICM.WebSites\\ICM.WebSites.csproj",
+              "RelativeDocumentMoniker": "ICM.WebSites\\ICM.WebSites.csproj",
+              "ToolTip": "C:\\ICM\\ICM.WebSites\\ICM.WebSites.csproj",
+              "RelativeToolTip": "ICM.WebSites\\ICM.WebSites.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-28T10:17:43.383Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

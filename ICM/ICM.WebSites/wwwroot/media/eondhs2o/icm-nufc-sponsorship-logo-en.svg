@@ -1,0 +1,1432 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 17.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY ns_flows "http://ns.adobe.com/Flows/1.0/">
+	<!ENTITY ns_extend "http://ns.adobe.com/Extensibility/1.0/">
+	<!ENTITY ns_ai "http://ns.adobe.com/AdobeIllustrator/10.0/">
+	<!ENTITY ns_graphs "http://ns.adobe.com/Graphs/1.0/">
+	<!ENTITY ns_vars "http://ns.adobe.com/Variables/1.0/">
+	<!ENTITY ns_imrep "http://ns.adobe.com/ImageReplacement/1.0/">
+	<!ENTITY ns_sfw "http://ns.adobe.com/SaveForWeb/1.0/">
+	<!ENTITY ns_custom "http://ns.adobe.com/GenericCustomNamespace/1.0/">
+	<!ENTITY ns_adobe_xpath "http://ns.adobe.com/XPath/1.0/">
+]>
+<svg version="1.1" id="Layer_1" xmlns:x="&ns_extend;" xmlns:i="&ns_ai;" xmlns:graph="&ns_graphs;"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+	 x="0px" y="0px" width="355.971px" height="106.449px" viewBox="0 0 355.971 106.449" enable-background="new 0 0 355.971 106.449"
+	 xml:space="preserve">
+<metadata><?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.5-c014 79.151739, 2013/04/03-12:12:15        ">
+   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:Description rdf:about=""
+            xmlns:xmp="http://ns.adobe.com/xap/1.0/"
+            xmlns:xmpGImg="http://ns.adobe.com/xap/1.0/g/img/"
+            xmlns:xmpTPg="http://ns.adobe.com/xap/1.0/t/pg/"
+            xmlns:stDim="http://ns.adobe.com/xap/1.0/sType/Dimensions#"
+            xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/"
+            xmlns:dc="http://purl.org/dc/elements/1.1/"
+            xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
+            xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#">
+         <xmp:CreatorTool>Adobe Illustrator CC (Windows)</xmp:CreatorTool>
+         <xmp:CreateDate>2020-09-23T13:58:16+04:00</xmp:CreateDate>
+         <xmp:Thumbnails>
+            <rdf:Alt>
+               <rdf:li rdf:parseType="Resource">
+                  <xmpGImg:width>256</xmpGImg:width>
+                  <xmpGImg:height>80</xmpGImg:height>
+                  <xmpGImg:format>JPEG</xmpGImg:format>
+                  <xmpGImg:image>/9j/4AAQSkZJRgABAgEASABIAAD/7QAsUGhvdG9zaG9wIDMuMAA4QklNA+0AAAAAABAASAAAAAEA&#xA;AQBIAAAAAQAB/+4ADkFkb2JlAGTAAAAAAf/bAIQABgQEBAUEBgUFBgkGBQYJCwgGBggLDAoKCwoK&#xA;DBAMDAwMDAwQDA4PEA8ODBMTFBQTExwbGxscHx8fHx8fHx8fHwEHBwcNDA0YEBAYGhURFRofHx8f&#xA;Hx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8f/8AAEQgAUAEAAwER&#xA;AAIRAQMRAf/EAaIAAAAHAQEBAQEAAAAAAAAAAAQFAwIGAQAHCAkKCwEAAgIDAQEBAQEAAAAAAAAA&#xA;AQACAwQFBgcICQoLEAACAQMDAgQCBgcDBAIGAnMBAgMRBAAFIRIxQVEGE2EicYEUMpGhBxWxQiPB&#xA;UtHhMxZi8CRygvElQzRTkqKyY3PCNUQnk6OzNhdUZHTD0uIIJoMJChgZhJRFRqS0VtNVKBry4/PE&#xA;1OT0ZXWFlaW1xdXl9WZ2hpamtsbW5vY3R1dnd4eXp7fH1+f3OEhYaHiImKi4yNjo+Ck5SVlpeYmZ&#xA;qbnJ2en5KjpKWmp6ipqqusra6voRAAICAQIDBQUEBQYECAMDbQEAAhEDBCESMUEFURNhIgZxgZEy&#xA;obHwFMHR4SNCFVJicvEzJDRDghaSUyWiY7LCB3PSNeJEgxdUkwgJChgZJjZFGidkdFU38qOzwygp&#xA;0+PzhJSktMTU5PRldYWVpbXF1eX1RlZmdoaWprbG1ub2R1dnd4eXp7fH1+f3OEhYaHiImKi4yNjo&#xA;+DlJWWl5iZmpucnZ6fkqOkpaanqKmqq6ytrq+v/aAAwDAQACEQMRAD8A9U4q7FXYq7FXydp6+d/L&#xA;2leZ4vLA8yyWtlfuNJubdHe2DRSyJduRxZJ/7scyw61p0JKr3+x8zzW9nAW1qwvuSoOGot+j7mrL&#xA;yPJlRldiKkBYFxVH6J5g1/U79UbTIIdOQM09+k07KTT4EiWa2tedSallqoA61xVkeKuxV2KuxV2K&#xA;uxV2KuxV2KuxV2KuxV2KuxV2KuxV2KuxV2KuxV2KuxV2KuxV2KuxV2KuxV2KvkHzh5u83HStS8pa&#xA;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&#xA;uxV2Kv8A/9k=</xmpGImg:image>
+               </rdf:li>
+            </rdf:Alt>
+         </xmp:Thumbnails>
+         <xmp:MetadataDate>2020-09-23T13:58:16+04:00</xmp:MetadataDate>
+         <xmp:ModifyDate>2020-09-23T13:58:16+04:00</xmp:ModifyDate>
+         <xmpTPg:MaxPageSize rdf:parseType="Resource">
+            <stDim:w>355.970617</stDim:w>
+            <stDim:h>106.448730</stDim:h>
+            <stDim:unit>Points</stDim:unit>
+         </xmpTPg:MaxPageSize>
+         <xmpTPg:NPages>1</xmpTPg:NPages>
+         <xmpTPg:HasVisibleTransparency>False</xmpTPg:HasVisibleTransparency>
+         <xmpTPg:HasVisibleOverprint>False</xmpTPg:HasVisibleOverprint>
+         <xmpTPg:PlateNames>
+            <rdf:Seq>
+               <rdf:li>Black</rdf:li>
+            </rdf:Seq>
+         </xmpTPg:PlateNames>
+         <xmpTPg:SwatchGroups>
+            <rdf:Seq>
+               <rdf:li rdf:parseType="Resource">
+                  <xmpG:groupName>Default Swatch Group</xmpG:groupName>
+                  <xmpG:groupType>0</xmpG:groupType>
+                  <xmpG:Colorants>
+                     <rdf:Seq>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>White</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>0.000000</xmpG:cyan>
+                           <xmpG:magenta>0.000000</xmpG:magenta>
+                           <xmpG:yellow>0.000000</xmpG:yellow>
+                           <xmpG:black>0.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>Black</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>0.000000</xmpG:cyan>
+                           <xmpG:magenta>0.000000</xmpG:magenta>
+                           <xmpG:yellow>0.000000</xmpG:yellow>
+                           <xmpG:black>100.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>CMYK Red</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>0.000000</xmpG:cyan>
+                           <xmpG:magenta>100.000000</xmpG:magenta>
+                           <xmpG:yellow>100.000000</xmpG:yellow>
+                           <xmpG:black>0.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>CMYK Yellow</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>0.000000</xmpG:cyan>
+                           <xmpG:magenta>0.000000</xmpG:magenta>
+                           <xmpG:yellow>100.000000</xmpG:yellow>
+                           <xmpG:black>0.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>CMYK Green</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>100.000000</xmpG:cyan>
+                           <xmpG:magenta>0.000000</xmpG:magenta>
+                           <xmpG:yellow>100.000000</xmpG:yellow>
+                           <xmpG:black>0.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>CMYK Cyan</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>100.000000</xmpG:cyan>
+                           <xmpG:magenta>0.000000</xmpG:magenta>
+                           <xmpG:yellow>0.000000</xmpG:yellow>
+                           <xmpG:black>0.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>CMYK Blue</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>100.000000</xmpG:cyan>
+                           <xmpG:magenta>100.000000</xmpG:magenta>
+                           <xmpG:yellow>0.000000</xmpG:yellow>
+                           <xmpG:black>0.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>CMYK Magenta</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>0.000000</xmpG:cyan>
+                           <xmpG:magenta>100.000000</xmpG:magenta>
+                           <xmpG:yellow>0.000000</xmpG:yellow>
+                           <xmpG:black>0.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=15 M=100 Y=90 K=10</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>15.000000</xmpG:cyan>
+                           <xmpG:magenta>100.000000</xmpG:magenta>
+                           <xmpG:yellow>90.000000</xmpG:yellow>
+                           <xmpG:black>10.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=0 M=90 Y=85 K=0</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>0.000000</xmpG:cyan>
+                           <xmpG:magenta>90.000000</xmpG:magenta>
+                           <xmpG:yellow>85.000000</xmpG:yellow>
+                           <xmpG:black>0.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=0 M=80 Y=95 K=0</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>0.000000</xmpG:cyan>
+                           <xmpG:magenta>80.000000</xmpG:magenta>
+                           <xmpG:yellow>95.000000</xmpG:yellow>
+                           <xmpG:black>0.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=0 M=50 Y=100 K=0</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>0.000000</xmpG:cyan>
+                           <xmpG:magenta>50.000000</xmpG:magenta>
+                           <xmpG:yellow>100.000000</xmpG:yellow>
+                           <xmpG:black>0.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=0 M=35 Y=85 K=0</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>0.000000</xmpG:cyan>
+                           <xmpG:magenta>35.000000</xmpG:magenta>
+                           <xmpG:yellow>85.000000</xmpG:yellow>
+                           <xmpG:black>0.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=5 M=0 Y=90 K=0</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>5.000000</xmpG:cyan>
+                           <xmpG:magenta>0.000000</xmpG:magenta>
+                           <xmpG:yellow>90.000000</xmpG:yellow>
+                           <xmpG:black>0.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=20 M=0 Y=100 K=0</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>20.000000</xmpG:cyan>
+                           <xmpG:magenta>0.000000</xmpG:magenta>
+                           <xmpG:yellow>100.000000</xmpG:yellow>
+                           <xmpG:black>0.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=50 M=0 Y=100 K=0</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>50.000000</xmpG:cyan>
+                           <xmpG:magenta>0.000000</xmpG:magenta>
+                           <xmpG:yellow>100.000000</xmpG:yellow>
+                           <xmpG:black>0.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=75 M=0 Y=100 K=0</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>75.000000</xmpG:cyan>
+                           <xmpG:magenta>0.000000</xmpG:magenta>
+                           <xmpG:yellow>100.000000</xmpG:yellow>
+                           <xmpG:black>0.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=85 M=10 Y=100 K=10</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>85.000000</xmpG:cyan>
+                           <xmpG:magenta>10.000000</xmpG:magenta>
+                           <xmpG:yellow>100.000000</xmpG:yellow>
+                           <xmpG:black>10.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=90 M=30 Y=95 K=30</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>90.000000</xmpG:cyan>
+                           <xmpG:magenta>30.000000</xmpG:magenta>
+                           <xmpG:yellow>95.000000</xmpG:yellow>
+                           <xmpG:black>30.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=75 M=0 Y=75 K=0</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>75.000000</xmpG:cyan>
+                           <xmpG:magenta>0.000000</xmpG:magenta>
+                           <xmpG:yellow>75.000000</xmpG:yellow>
+                           <xmpG:black>0.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=80 M=10 Y=45 K=0</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>80.000000</xmpG:cyan>
+                           <xmpG:magenta>10.000000</xmpG:magenta>
+                           <xmpG:yellow>45.000000</xmpG:yellow>
+                           <xmpG:black>0.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=70 M=15 Y=0 K=0</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>70.000000</xmpG:cyan>
+                           <xmpG:magenta>15.000000</xmpG:magenta>
+                           <xmpG:yellow>0.000000</xmpG:yellow>
+                           <xmpG:black>0.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=85 M=50 Y=0 K=0</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>85.000000</xmpG:cyan>
+                           <xmpG:magenta>50.000000</xmpG:magenta>
+                           <xmpG:yellow>0.000000</xmpG:yellow>
+                           <xmpG:black>0.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=100 M=95 Y=5 K=0</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>100.000000</xmpG:cyan>
+                           <xmpG:magenta>95.000000</xmpG:magenta>
+                           <xmpG:yellow>5.000000</xmpG:yellow>
+                           <xmpG:black>0.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=100 M=100 Y=25 K=25</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>100.000000</xmpG:cyan>
+                           <xmpG:magenta>100.000000</xmpG:magenta>
+                           <xmpG:yellow>25.000000</xmpG:yellow>
+                           <xmpG:black>25.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=75 M=100 Y=0 K=0</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>75.000000</xmpG:cyan>
+                           <xmpG:magenta>100.000000</xmpG:magenta>
+                           <xmpG:yellow>0.000000</xmpG:yellow>
+                           <xmpG:black>0.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=50 M=100 Y=0 K=0</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>50.000000</xmpG:cyan>
+                           <xmpG:magenta>100.000000</xmpG:magenta>
+                           <xmpG:yellow>0.000000</xmpG:yellow>
+                           <xmpG:black>0.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=35 M=100 Y=35 K=10</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>35.000000</xmpG:cyan>
+                           <xmpG:magenta>100.000000</xmpG:magenta>
+                           <xmpG:yellow>35.000000</xmpG:yellow>
+                           <xmpG:black>10.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=10 M=100 Y=50 K=0</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>10.000000</xmpG:cyan>
+                           <xmpG:magenta>100.000000</xmpG:magenta>
+                           <xmpG:yellow>50.000000</xmpG:yellow>
+                           <xmpG:black>0.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=0 M=95 Y=20 K=0</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>0.000000</xmpG:cyan>
+                           <xmpG:magenta>95.000000</xmpG:magenta>
+                           <xmpG:yellow>20.000000</xmpG:yellow>
+                           <xmpG:black>0.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=25 M=25 Y=40 K=0</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>25.000000</xmpG:cyan>
+                           <xmpG:magenta>25.000000</xmpG:magenta>
+                           <xmpG:yellow>40.000000</xmpG:yellow>
+                           <xmpG:black>0.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=40 M=45 Y=50 K=5</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>40.000000</xmpG:cyan>
+                           <xmpG:magenta>45.000000</xmpG:magenta>
+                           <xmpG:yellow>50.000000</xmpG:yellow>
+                           <xmpG:black>5.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=50 M=50 Y=60 K=25</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>50.000000</xmpG:cyan>
+                           <xmpG:magenta>50.000000</xmpG:magenta>
+                           <xmpG:yellow>60.000000</xmpG:yellow>
+                           <xmpG:black>25.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=55 M=60 Y=65 K=40</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>55.000000</xmpG:cyan>
+                           <xmpG:magenta>60.000000</xmpG:magenta>
+                           <xmpG:yellow>65.000000</xmpG:yellow>
+                           <xmpG:black>40.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=25 M=40 Y=65 K=0</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>25.000000</xmpG:cyan>
+                           <xmpG:magenta>40.000000</xmpG:magenta>
+                           <xmpG:yellow>65.000000</xmpG:yellow>
+                           <xmpG:black>0.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=30 M=50 Y=75 K=10</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>30.000000</xmpG:cyan>
+                           <xmpG:magenta>50.000000</xmpG:magenta>
+                           <xmpG:yellow>75.000000</xmpG:yellow>
+                           <xmpG:black>10.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=35 M=60 Y=80 K=25</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>35.000000</xmpG:cyan>
+                           <xmpG:magenta>60.000000</xmpG:magenta>
+                           <xmpG:yellow>80.000000</xmpG:yellow>
+                           <xmpG:black>25.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=40 M=65 Y=90 K=35</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>40.000000</xmpG:cyan>
+                           <xmpG:magenta>65.000000</xmpG:magenta>
+                           <xmpG:yellow>90.000000</xmpG:yellow>
+                           <xmpG:black>35.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=40 M=70 Y=100 K=50</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>40.000000</xmpG:cyan>
+                           <xmpG:magenta>70.000000</xmpG:magenta>
+                           <xmpG:yellow>100.000000</xmpG:yellow>
+                           <xmpG:black>50.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=50 M=70 Y=80 K=70</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>50.000000</xmpG:cyan>
+                           <xmpG:magenta>70.000000</xmpG:magenta>
+                           <xmpG:yellow>80.000000</xmpG:yellow>
+                           <xmpG:black>70.000000</xmpG:black>
+                        </rdf:li>
+                     </rdf:Seq>
+                  </xmpG:Colorants>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <xmpG:groupName>Grays</xmpG:groupName>
+                  <xmpG:groupType>1</xmpG:groupType>
+                  <xmpG:Colorants>
+                     <rdf:Seq>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=0 M=0 Y=0 K=100</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>0.000000</xmpG:cyan>
+                           <xmpG:magenta>0.000000</xmpG:magenta>
+                           <xmpG:yellow>0.000000</xmpG:yellow>
+                           <xmpG:black>100.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=0 M=0 Y=0 K=90</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>0.000000</xmpG:cyan>
+                           <xmpG:magenta>0.000000</xmpG:magenta>
+                           <xmpG:yellow>0.000000</xmpG:yellow>
+                           <xmpG:black>89.999400</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=0 M=0 Y=0 K=80</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>0.000000</xmpG:cyan>
+                           <xmpG:magenta>0.000000</xmpG:magenta>
+                           <xmpG:yellow>0.000000</xmpG:yellow>
+                           <xmpG:black>79.998800</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=0 M=0 Y=0 K=70</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>0.000000</xmpG:cyan>
+                           <xmpG:magenta>0.000000</xmpG:magenta>
+                           <xmpG:yellow>0.000000</xmpG:yellow>
+                           <xmpG:black>69.999700</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=0 M=0 Y=0 K=60</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>0.000000</xmpG:cyan>
+                           <xmpG:magenta>0.000000</xmpG:magenta>
+                           <xmpG:yellow>0.000000</xmpG:yellow>
+                           <xmpG:black>59.999100</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=0 M=0 Y=0 K=50</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>0.000000</xmpG:cyan>
+                           <xmpG:magenta>0.000000</xmpG:magenta>
+                           <xmpG:yellow>0.000000</xmpG:yellow>
+                           <xmpG:black>50.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=0 M=0 Y=0 K=40</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>0.000000</xmpG:cyan>
+                           <xmpG:magenta>0.000000</xmpG:magenta>
+                           <xmpG:yellow>0.000000</xmpG:yellow>
+                           <xmpG:black>39.999400</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=0 M=0 Y=0 K=30</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>0.000000</xmpG:cyan>
+                           <xmpG:magenta>0.000000</xmpG:magenta>
+                           <xmpG:yellow>0.000000</xmpG:yellow>
+                           <xmpG:black>29.998800</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=0 M=0 Y=0 K=20</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>0.000000</xmpG:cyan>
+                           <xmpG:magenta>0.000000</xmpG:magenta>
+                           <xmpG:yellow>0.000000</xmpG:yellow>
+                           <xmpG:black>19.999700</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=0 M=0 Y=0 K=10</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>0.000000</xmpG:cyan>
+                           <xmpG:magenta>0.000000</xmpG:magenta>
+                           <xmpG:yellow>0.000000</xmpG:yellow>
+                           <xmpG:black>9.999100</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=0 M=0 Y=0 K=5</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>0.000000</xmpG:cyan>
+                           <xmpG:magenta>0.000000</xmpG:magenta>
+                           <xmpG:yellow>0.000000</xmpG:yellow>
+                           <xmpG:black>4.998800</xmpG:black>
+                        </rdf:li>
+                     </rdf:Seq>
+                  </xmpG:Colorants>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <xmpG:groupName>Brights</xmpG:groupName>
+                  <xmpG:groupType>1</xmpG:groupType>
+                  <xmpG:Colorants>
+                     <rdf:Seq>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=0 M=100 Y=100 K=0</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>0.000000</xmpG:cyan>
+                           <xmpG:magenta>100.000000</xmpG:magenta>
+                           <xmpG:yellow>100.000000</xmpG:yellow>
+                           <xmpG:black>0.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=0 M=75 Y=100 K=0</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>0.000000</xmpG:cyan>
+                           <xmpG:magenta>75.000000</xmpG:magenta>
+                           <xmpG:yellow>100.000000</xmpG:yellow>
+                           <xmpG:black>0.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=0 M=10 Y=95 K=0</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>0.000000</xmpG:cyan>
+                           <xmpG:magenta>10.000000</xmpG:magenta>
+                           <xmpG:yellow>95.000000</xmpG:yellow>
+                           <xmpG:black>0.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=85 M=10 Y=100 K=0</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>85.000000</xmpG:cyan>
+                           <xmpG:magenta>10.000000</xmpG:magenta>
+                           <xmpG:yellow>100.000000</xmpG:yellow>
+                           <xmpG:black>0.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=100 M=90 Y=0 K=0</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>100.000000</xmpG:cyan>
+                           <xmpG:magenta>90.000000</xmpG:magenta>
+                           <xmpG:yellow>0.000000</xmpG:yellow>
+                           <xmpG:black>0.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=60 M=90 Y=0 K=0</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>60.000000</xmpG:cyan>
+                           <xmpG:magenta>90.000000</xmpG:magenta>
+                           <xmpG:yellow>0.003100</xmpG:yellow>
+                           <xmpG:black>0.003100</xmpG:black>
+                        </rdf:li>
+                     </rdf:Seq>
+                  </xmpG:Colorants>
+               </rdf:li>
+            </rdf:Seq>
+         </xmpTPg:SwatchGroups>
+         <dc:format>image/svg+xml</dc:format>
+         <xmpMM:DerivedFrom rdf:parseType="Resource"/>
+         <xmpMM:DocumentID>xmp.did:a7f3ba69-4a25-1544-b4c4-8a12509a5744</xmpMM:DocumentID>
+         <xmpMM:InstanceID>xmp.iid:a7f3ba69-4a25-1544-b4c4-8a12509a5744</xmpMM:InstanceID>
+         <xmpMM:OriginalDocumentID>xmp.did:a7f3ba69-4a25-1544-b4c4-8a12509a5744</xmpMM:OriginalDocumentID>
+         <xmpMM:History>
+            <rdf:Seq>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:a7f3ba69-4a25-1544-b4c4-8a12509a5744</stEvt:instanceID>
+                  <stEvt:when>2020-09-23T13:58:16+04:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Illustrator CC (Windows)</stEvt:softwareAgent>
+                  <stEvt:changed>/</stEvt:changed>
+               </rdf:li>
+            </rdf:Seq>
+         </xmpMM:History>
+      </rdf:Description>
+   </rdf:RDF>
+</x:xmpmeta>
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                           
+<?xpacket end="w"?>
+	</metadata>
+<g>
+	<g>
+		<g>
+			<g>
+				<polygon points="28.018,87.532 28.01,87.557 28.019,87.535 				"/>
+				<polygon points="11.045,94.329 11.021,94.321 11.04,94.329 				"/>
+				<polygon points="42.478,105.339 42.478,105.367 42.481,105.339 				"/>
+				<polygon points="91.408,85.204 91.401,85.197 91.407,85.206 				"/>
+				<polygon points="14.422,83.894 14.394,83.883 14.419,83.896 				"/>
+				<path d="M104.951,76.889c-1.017-1.859-0.837-4.79-3.423-5.337c-2.696-0.077-5.594,0.968-8.006,2.434
+					c-0.94,0.94,0.345,1.75,0.394,2.668c0.289,1.307,0.94,2.455,1.072,3.816c-0.601,0.208-1.203,0.497-1.826,0.651
+					c-0.525,0.186-0.968-0.077-1.313-0.388c-1.542-0.706-3.083,0.104-4.363,0.754c-0.553,0.891-1.597,0.131-2.384,0.449
+					c-2.247,0.131-5.042,0.076-6.928,1.804c-1.279,1.252,0.082,2.718-0.049,4.129c-3.532,0.941-7.01,2.018-10.723,2.51
+					c-1.023,0.186-2.095,0.317-3.139,0.471c-3.271,0.497-6.617,0.864-9.755,0.946l-0.104-0.109c0.028-0.126,0.159-0.23,0.104-0.389
+					c2.247-2.8,5.441-4.943,8.552-6.485c0.443-0.235,0.864-0.601,1.362-0.76c0.388-0.525,0.99-0.47,1.411-0.968
+					c2.668-1.646,5.594-3.582,6.955-6.535c0.416-0.629,0.525-1.362,0.788-2.067c0.208-0.629,0.208-1.176,0.415-1.804
+					c0.656,1.591,0.76,3.581,2.461,4.522c2.116,1.597,4.861,2.012,7.453,1.099c3.346-1.307,5.173-4.916,5.49-8.344
+					c0.159-0.443,0.678-0.52,0.809-0.968c-0.47-0.416-0.705-1.072-0.47-1.646c0.18-0.602,1.044-0.497,1.126-1.121
+					c-0.158-0.159-0.366-0.213-0.552-0.344c-0.623-0.443-0.968-1.148-0.809-1.908c0.054-0.601,0.837-0.837,0.94-1.411
+					c-0.471-0.159-1.018-0.235-1.307-0.656c0-0.208,0.262-0.312,0.421-0.366c1.591-0.284,4.232-0.837,5.386,0.968
+					c1.701,2.094-0.42,4.445-0.262,6.698c0.18,0.492,0.027,1.252,0.547,1.514c0-1.832,1.832-2.33,2.826-3.636l0.263,0.394
+					c0.623-0.94-0.131-2.351,0.65-3.27c0.236-0.159,0.471,0.158,0.706,0v-0.29c-0.65-0.596-0.623-1.46-0.755-2.275
+					c0.077-0.388,0.547-0.126,0.705-0.443c-0.47-0.311-0.837-0.837-1.071-1.356c-0.159-0.968-1.099-1.569-1.805-2.067l0.497-0.602
+					c0.181-0.525,0.547-0.995,0.755-1.52c-0.574-0.153-1.279-0.311-1.804-0.705c0.918-1.411,0.809-3.347,0.864-4.784l-0.262,0.158
+					c-0.132-0.968-0.153-2.04-0.602-2.827c-0.208,0.055-0.049,0.394-0.312,0.317c-0.498-1.05-0.892-2.198-1.805-3.035
+					c-0.443-0.104-0.055,0.394-0.312,0.47c-0.815-0.574-1.203-1.41-1.312-2.329c-0.235,0-0.284,0.235-0.339,0.394
+					c-0.367,2.745,0.918,5.49,0.158,8.159c-0.366,0.733-0.366,1.624-0.968,2.275c-0.602,1.673-2.144,2.772-3.582,3.713
+					c-0.104-0.022-0.235,0.027-0.289-0.049c-0.181-0.787,0.525-1.416,0.498-2.143c-0.574-0.104-1.1-0.58-1.411-1.023
+					c-0.131-0.705,0.104-1.362,0.76-1.805c0.208-0.498-0.498-0.262-0.711-0.498c-0.602-0.47-0.99-1.252-0.99-2.116
+					c-0.055-0.629,0.65-1.023,0.65-1.569c-0.678,0-1.203-0.656-1.514-1.203c-0.339-0.968-0.367-2.302,0.159-3.27
+					c0.623-2.717,4.418-2.69,4.467-5.648c0.159-0.574,1.05,0.027,1.416-0.547c0.235-0.263-0.186-0.186-0.262-0.263
+					c-0.787-0.421-0.629-1.361-0.705-2.012c0.366-0.131,0.574,0.257,0.913,0.049c0.158-0.131,0.525-0.18,0.394-0.443
+					c-0.498,0.049-0.629-0.498-0.941-0.76c0.208-0.159,0.416,0.082,0.651,0c0.158-0.049,0.443-0.104,0.339-0.394
+					c-0.471-0.312-0.755-0.859-0.755-1.356h0.366c0.706-0.235-0.159-0.629-0.109-1.023c0.055-0.104,0.159-0.131,0.262-0.104
+					c0.104-0.077,0.186-0.208,0.131-0.285c-1.017-0.262-0.628-1.493-1.59-1.831c0.727-0.574-0.421-0.76-0.372-1.307
+					c-0.104-0.29-0.388-0.317-0.602-0.394c-0.022-0.158,0.027-0.29,0.159-0.394c0.317-0.498-0.284-0.547-0.601-0.651
+					c0-0.317,0.082-1.05-0.602-0.815c0.338-0.886-0.755-0.574-1.149-0.65c0.028-0.366,0.208-0.705,0.077-1.072
+					c-0.416-0.104-0.651,0.181-0.995,0.153l-0.049-0.705c-0.366-0.104-0.552,0.186-0.864,0.159
+					c-0.913,0.913-0.788-0.787-1.542-0.968c-0.186-0.104-0.497-0.29-0.706-0.055c0.104,0.476,0.52,0.919,0.285,1.466
+					c-0.153,0.213-0.416,0.574-0.705,0.421c-0.34-0.449-0.706-0.892-1.149-1.307c-0.208-0.235-0.235-0.705-0.656-0.76
+					c-0.262,0.629-0.18,1.384-0.262,2.067c-0.388-0.082-0.782-0.498-1.148-0.263c-0.29,0.941,0.131,1.832,0.809,2.51
+					c-0.498,0.443-0.864,0.941-1.307,1.411c-0.656,1.285-2.012,2.04-2.98,3.166c-1.071,0.837-1.153,2.198-1.306,3.374
+					c0.393,0.656,1.072,0.443,1.673,0.76c0.077,0.208-0.186,0.284-0.263,0.416c-0.29,0.104-0.339-0.339-0.601-0.263
+					c-0.34,0.055-0.394,0.421-0.498,0.656c0.131,0.235,0.082,0.547,0.394,0.706c0.601,0.339,1.279,0,1.804-0.443
+					c0.443,0.104,0.995-0.186,1.466,0.049v-0.104c0.94-0.285,1.334-1.438,2.275-1.854c0.366,0.126,0.705-0.235,0.94,0.18
+					c-0.76,1.072-2.171,1.389-3.111,2.226c-1.7,0.99-3.27,2.663-4.079,4.418c-0.317,0.443-0.235,1.121-0.706,1.465
+					c-0.918-1.465-1.258-3.193-2.357-4.528c-0.651-0.547-1.646-0.574-2.433-0.262c-1.564,1.126-3.5,1.312-5.02,2.488l-0.104-0.104
+					c-0.027-0.47-0.235-0.864-0.546-1.258c-0.498-0.235-0.995-0.394-1.569-0.416c-0.864-0.082-1.701,0.601-2.51,0.049
+					c-0.186-0.366-0.29-0.733-0.317-1.148c-0.153-0.366,0.104-1.23-0.443-1.362c-0.421-0.678-0.339-1.569-0.394-2.406
+					c-0.049-0.18-0.284,0-0.366-0.158c-0.366-1.28-0.153-2.822-0.262-4.025c0.158-0.552-0.388-1.23,0.262-1.569
+					c0.104-0.159,0.186-0.47-0.049-0.553c-0.082-0.077-0.082-0.257,0.049-0.311c1.072-0.104,0.864-1.701,2.012-1.542
+					c0.159-0.132,0.131-0.366,0.213-0.525c-0.054-0.601,0.181-1.176-0.054-1.804l-1.673,0.055l-0.131-0.104
+					c-0.208-0.864-0.104-1.908,0.553-2.51c0.546-0.158,0.99-0.497,1.542-0.213c0.388,0.235,0.601,0.656,0.65,1.071
+					c-0.131,0.263-0.388,0.421-0.65,0.345c-0.525-0.213-0.422-0.946-0.892-0.946c-0.131,0.787,0.132,1.569,0.816,2.018
+					c0.338,0.18,0.886,0.18,1.197,0c0.498-0.317,0.787-0.76,0.891-1.361c-0.393-0.968,0.891-0.312,1.231-0.76
+					c0.941-0.366,0.65-1.28,0.706-2.067c0-0.492,0.733-0.837,0.733-1.252c-0.317-0.131-0.656-0.186-0.996-0.158
+					c-0.782,0-0.76,0.891-1.203,1.307l-0.049-0.913c-0.186-0.339-0.525-0.705-0.864-0.891c-0.263,0.027-0.552-0.235-0.76,0
+					c-0.049,0.339,0.312,0.317,0.415,0.552c-0.104,0.913-1.148,0.733-1.777,0.995c-0.837,0.126-0.913,1.148-1.7,1.307
+					c-1.198,0.733-1.225,2.275-1.072,3.527c-0.65,0.159-0.104,0.837-0.492,1.203c-0.498-0.131-0.607-0.733-0.76-1.148
+					c-0.29-0.837-0.159-1.908-0.104-2.827c0.18-1.28,1.592-2.04,2.324-3.057c-0.443-0.891,0.76-1.099,0.815-1.859
+					c-0.235-0.18-0.498,0.186-0.711-0.104c0-0.104,0-0.235,0.054-0.312c1.466-0.262,0.421-1.597,1.044-2.46
+					c-0.049-0.416-0.284-0.547-0.547-0.864c-0.29,0.104-0.552-0.131-0.602-0.443c-0.312-0.498-0.913-0.678-1.466-0.602
+					c-0.235-0.104-0.498-0.311-0.76-0.159c-0.547,0.684-1.383,0.919-1.854,1.755l-0.208-0.186c-0.317,0.421-0.711,0.891-0.711,1.493
+					c0.262,0.678-0.651,0.65-0.941,1.071c-0.47,0.498-0.366,1.258-0.913,1.646c-0.629-1.017-1.673-1.542-2.171-2.614
+					c0.027-1.383-1.805-2.143-1.044-3.713c3.505-2.144,7.502-0.29,11.319-0.104c5.523,0.782,12.5,0.864,16.109-4.134
+					c0.027-0.339,0.448-0.678,0.262-0.968c-1.75,1.072-4.024,1.072-6.091,1.231c-1.411-0.055-3.035-0.028-4.183-0.421
+					c-2.877-0.366-5.495-1.411-8.005-2.614c-2.22-1.017-4.785-1.411-7.344-0.995c-0.262,0.027-0.579,0.213-0.76,0.055
+					c0.131-0.525-0.158-1.045-0.448-1.515c-0.361-0.213-0.727-0.656-1.121-0.656c-0.782-0.131-1.542,0.186-2.067,0.76
+					c-0.47,0.574-0.525,1.569-0.18,2.193c0.284,0.498,0.755,0.842,1.148,1.126c0.131,3.215,0,5.966,0.104,8.891
+					c-0.104,0.47-0.47,1.044-0.104,1.52c0.076,2.012,0.076,4.599,0,6.742l-0.159,0.213c-0.131,0.208-0.022,0.443,0.104,0.602
+					l0.055,16.607c-0.339,0.339-0.76,0.52-0.968,0.968c-0.077,0.388,0,0.859,0.208,1.203c1.05,1.411,2.564,0.962,4.079,0.809
+					l0.109,0.104c-0.262,0.602-0.213,1.493,0.181,2.012c0.159,0.525-0.366,0.919-0.733,1.203c-1.936,1.044-4.26,1.362-6.354,0.864
+					c-1.126-0.159,0.049-1.072-0.159-1.728c-0.208-0.913-0.705-1.936-1.75-2.116c-0.919-0.235-1.99,0.055-2.565,0.809
+					c-0.027-0.755,0.082-1.7,0.891-2.067c0.754,0.131,1.487,0.344,2.116,0.864c0.47,0.574,0.809,1.023,1.569,1.044
+					c0.366,0.656,0.235,1.438,0.104,2.171l0.186,0.158c0.913,0.186,1.936,0.104,2.876,0.262c0.547-0.864,1.487,0.208,2.012-0.809
+					c0.186-0.186,0.656,0.077,0.656-0.317c-0.891-1.411-2.515-2.061-3.718-3.057c-1.383-1.859-3.866-1.859-5.648-3.139
+					c-3.292-0.809-3.133,3.215-4.571,4.888l-0.213-0.284c-0.913-3.139-3.975-5.545-6.747-6.906c-0.339-0.235-0.837-0.47-0.94-0.913
+					c1.493-0.76,2.067,1.673,3.56,1.722c1.099-0.388,1.569,0.837,2.772,0.552c0.235-0.082,0.388-0.235,0.47-0.498
+					c0.131-0.317,0.049-0.76-0.263-0.918c-0.339-0.257-0.47,0.289-0.815,0.158c-0.104-0.104-0.284-0.235-0.208-0.366
+					c0.579-0.235,1.438-0.131,1.728-0.886c0.131-1.99-1.438-3.456-2.876-4.659c-1.307-0.782-1.597-2.324-2.827-3.215
+					c0.421-0.394,0.733-0.809,0.919-1.307c-0.077-0.498,0.18-0.94-0.213-1.307c-0.361,0.104-0.651,0.263-0.99,0.416
+					c-0.208-0.339-0.055-0.864-0.104-1.28c-0.082-0.29-0.027-0.94-0.449-0.782c-0.257,0.941-1.176,1.28-1.619,2.144h-0.159
+					c-1.017-0.394-0.312-1.466-0.29-2.067c-0.859-0.055-1.225,0.837-1.619,1.411c-0.421-0.263-0.864-0.416-1.361-0.498
+					c-0.388,0.186,0.055,0.498-0.153,0.76c-0.317-0.027-0.579-0.208-0.891-0.208c-0.416,0.312,0.131,0.809-0.104,1.252
+					c-0.262-0.131-0.683-0.131-0.968-0.077c0,0.443-0.181,0.809-0.656,0.733c-0.181,0.235,0.082,0.498,0,0.705
+					c-0.235,0.077-0.547,0-0.705,0.263c0.027,0.284,0.131,0.519,0.208,0.754c-0.837-0.049-0.361,0.995-1.148,1.099
+					c-0.181,0.235,0.104,0.394,0.186,0.602c-0.995,0.339-0.58,1.569-1.597,1.832c-0.131,0.366,0.263,0.29,0.394,0.443
+					c-0.027,0.344-0.421,0.47-0.394,0.815c0.049,0.443,0.547,0.049,0.706,0.339c-0.263,0.394-0.312,0.968-0.809,1.176
+					c-0.054,0.733,0.706,0.235,0.99,0.443c-0.229,0.394-0.547,0.733-0.99,0.815c0.263,0.547,0.913,0.366,1.411,0.388
+					c0.132,0.449-0.235,0.656-0.104,1.099c-0.208,0.421-0.366,0.995-0.968,0.968c0.208,0.601,0.94,0.366,1.465,0.497
+					c-0.027,0.995,0.366,2.012,1.307,2.669c1.804,0.837,3.478,2.614,3.686,4.626c-0.159,0.968-0.027,2.04-0.913,2.723
+					c-0.29,0.208-0.602,0.339-0.941,0.416c0.131,0.443,0.574,0.705,0.651,1.154c0.158,0.886-0.131,1.777-0.809,2.406
+					c-0.262,0.153-0.629,0.132-0.864,0.366c0.47,0.519,0.891,1.148,0.864,1.908c-0.208,0.339-0.497,0.733-0.809,0.864
+					c-1.832,0.388,0.601,1.564-0.263,2.504c-1.7-0.809-3.346-2.4-4.079-4.128c-1.099-2.116-1.05-4.369-0.787-6.747
+					c0.366-0.837,0.213-1.728,0.29-2.565c0.049-0.388-0.077-0.913-0.394-1.148c-0.208,0.891-0.574,1.804-1.361,2.351
+					c-0.104-0.049-0.022-0.153-0.049-0.235c-0.027-0.077,0-0.312-0.159-0.257c-1.121,0.705-1.383,2.04-1.957,3.111
+					c-0.11-0.131-0.131-0.344-0.344-0.394c-0.181,0.498-0.235,1.044-0.366,1.569c-0.153,0.394,0.082,0.995-0.208,1.252
+					c-0.077-0.077-0.18-0.104-0.284-0.104v0.159c0.077,1.673,0.208,3.297,0.94,4.68c-0.29,0.235-0.656,0.208-0.94,0.443
+					c-0.235,0.235-0.864-0.022-0.815,0.449c0.58,0.601,0.602,1.411,1.258,2.012c-1.755,0.498-1.466,2.406-2.876,3.319
+					c0.027,0.394,0.52,0.104,0.705,0.421c-0.077,0.913-0.235,1.75-0.787,2.455c0.027,0.47,0.421,0.054,0.656,0.159
+					c0.312,0.262,0.29,0.656,0.443,0.995c0.235,0.76-0.257,1.619,0.208,2.275c0.29,0.208,0.159-0.235,0.345-0.339
+					c0.809,1.017,2.275,1.619,2.772,2.898c0.131,0.213-0.055,0.58,0.153,0.711c0.29-0.186,0.394-0.497,0.344-0.76
+					c0.837-2.122-1.334-4.183-0.656-6.436c0.339-1.045,1.307-2.089,2.482-2.275c1.389-0.077,2.723-0.153,3.871,0.47
+					c-0.208,0.498-0.76,0.656-1.252,0.711c-0.158,0.235,0.077,0.416,0.235,0.547c0.52,0.289,0.727,0.891,0.705,1.465
+					c-0.131,0.755-0.76,1.411-1.416,1.75c0.027,0.47,0.525,0.448,0.815,0.656c0.312,0.366,0.52,0.732,0.443,1.252
+					c-0.077,0.29-0.312,0.525-0.547,0.76c0.022,0.421,0.443,0.656,0.705,0.914c0.339,2.641,1.231,5.074,3.215,7.037
+					c2.302,2.171,5.96,2.351,8.76,1.072c2.433-0.782,2.958-3.27,3.636-5.309c0.18,0.29,0.104,0.787,0.262,1.126
+					c0.651,4.965,5.884,8.104,9.755,10.356c3.527,1.75,7.005,3.866,9.673,7.163v0.181c-3.27,0.262-6.512-0.389-9.782-0.727
+					c-4.025-0.498-7.765-1.258-11.609-2.275c-0.94-0.394-1.99-0.525-2.931-0.919c0.159-1.411,1.154-3.292-0.312-4.418
+					c-2.329-1.75-5.544-1.411-8.344-1.515c-1.411-0.995-3.188-1.728-4.943-1.258c-0.416,0.104-0.651,0.678-1.198,0.498
+					c-0.733-0.262-1.52-0.339-2.171-0.76c0.519-1.805,1.072-3.636,1.854-5.331c0.208-0.629-0.263-1.126-0.656-1.493h-0.235
+					c-1.804-1.099-3.893-1.569-5.933-2.116c-1.203-0.213-2.696,0.077-3.428,1.307c-0.623,1.411-1.148,2.849-1.619,4.314
+					c-0.629,2.379-2.143,4.55-1.859,7.163c1.23,3.215,4.631,5.206,7.507,6.693c0.547,0.317,1.099,0.552,1.701,0.711
+					c0.498,0.47,1.175,0.443,1.673,0.837c-0.498,1.384-0.995,3.243,0.235,4.445c1.542,1.231,3.374,1.777,5.047,2.669
+					c4.369,2.034,9.154,3.029,13.78,4.418c0.94,0.208,2.012,0.471,2.876,0.602c6.303,1.397,12.934,1.919,19.407,1.919
+					c1.024,0,2.042-0.013,3.056-0.038c7.689-0.054,15.092-0.913,22.206-2.586c2.773-0.995,5.726-1.52,8.498-2.515
+					c0.547-0.236,1.149-0.389,1.701-0.651c2.745-0.94,5.441-2.171,7.868-3.768c1.307-1.148,0.76-3.029,0.29-4.39l0.208-0.235
+					c0.968-0.208,1.777-0.837,2.723-1.126c3.002-1.646,6.748-3.636,8-7.087C106.837,81.465,105.558,79.267,104.951,76.889z
+					 M104.25,76.888l0.023-0.005l-0.024,0.005L104.25,76.888z M103.699,75.894L103.699,75.894l-0.027-0.011L103.699,75.894z
+					 M92.872,81.832c3.374-1.099,6.879-2.537,8.814-5.993c0.235-0.574,0.284-1.28,0-1.853c-0.37-0.498-0.84-0.601-1.348-0.601
+					c-0.317,0-0.649,0.04-0.981,0.048c-1.362,0.394-2.717,0.733-3.871,1.597l-0.153,0.366c0.519,1.389,0.913,2.8,1.356,4.211
+					c-0.263,0.186-0.629,0.312-0.914,0.47c-0.574-0.837-0.678-1.985-1.153-2.926c-0.049-0.995-1.46-2.275-0.153-3.008
+					c1.957-1.023,4.106-1.804,6.354-2.018c0.706,0.027,1.487,0.317,1.963,0.995c0.962,2.171-0.393,4.238-1.913,5.703
+					c-1.958,1.723-4.337,2.718-6.748,3.5l-1.148,0.159C93.08,82.22,92.769,82.089,92.872,81.832z M97.373,79.278
+					c-0.525-1.181-0.968-2.515-1.307-3.822L96.06,75.44l0.011-0.011c1.055-0.897,2.395-1.132,3.724-1.471h0.011l0.005,0.005
+					c0.229,0.109,0.476,0.093,0.7,0.115c0.23,0.022,0.448,0.093,0.596,0.394v0.006c0.213,1.75-1.471,3.292-2.729,4.21l-0.968,0.602
+					l-0.027,0.017L97.373,79.278z M94.467,82.905L94.467,82.905l-0.015-0.023l0.013,0.018l0.003,0.007L94.467,82.905z
+					 M93.159,83.295l-0.025,0.008l0.024-0.009L93.159,83.295z M73.947,70.267c0,0-0.049-1.088-0.202-1.646
+					c-0.153-0.558-0.202-1.444,0.585-1.87l0.049-0.306c0,0-0.76-0.175-0.76-0.634c0-0.454,0.634-0.53,0.634-0.886
+					c0-0.35-0.454-0.454-0.585-0.481c-0.126-0.022-0.809-0.049-1.11-1.165c-0.306-1.11-1.241-4.604-1.241-4.604
+					s0.454-0.383,0.481-1.088c0.022-0.711,0.126-1.493,0.782-1.799c0.662-0.306,0.683-0.23,0.683-0.23s1.219,2.05,1.597,2.586
+					c0.377,0.53,2.226,2.909,3.243,4.528C78.103,62.672,74.128,66.117,73.947,70.267z M87.645,65.169
+					c-1.046,1.412-2.824,1.83-4.55,1.516c-0.706-0.209-1.151-0.602-1.596-1.177c2.354,0.262,5.021-0.549,6.093-2.851
+					c0.261,0.105,0.235,0.497,0.393,0.706C88.194,63.966,88.089,64.724,87.645,65.169z M88.377,65.065
+					c0.287,0.575,0.341,1.412-0.078,1.961c-0.993,1.282-2.824,1.413-4.236,1.151c-0.393-0.157-0.654-0.549-0.863-0.889
+					C85.133,67.575,87.279,66.895,88.377,65.065z M84.401,64.62c-1.254,0.367-2.928,0.576-3.974-0.365l-0.654-0.759
+					c1.045-0.026,2.51,0.105,3.583-0.34c0.837-0.183,1.673-0.758,2.458-1.203c0.445-0.392,0.68-0.993,1.203-1.307
+					c0.235,0.314,0.209,0.758,0.419,1.098C87.226,63.129,85.657,64.254,84.401,64.62z M85.814,61.299
+					c-1.908,1.438-4.838,2.406-7.087,1.046c-0.287-0.419-0.628-0.81-0.863-1.255c1.229,0.104,2.85,0.523,4.184,0.052
+					c1.203-0.261,2.222-0.889,3.217-1.673c0.261-0.288,0.522-0.732,0.863-0.837l0.445,0.889
+					C86.782,60.305,86.128,60.749,85.814,61.299z M85.579,58.161c-0.863,1.595-2.694,2.249-4.393,2.536
+					c-1.857-0.026-4.289,0.418-5.073-1.83l-0.053-0.052c0.497-0.052,1.177,0.339,1.857,0.261c2.694,0.21,5.309-0.915,7.008-2.929
+					c0.419,0.052,0.315,0.497,0.549,0.706C85.683,57.219,85.657,57.742,85.579,58.161z M84.454,55.912
+					c-1.83,1.987-4.367,2.798-6.982,2.615c-0.653-0.131-1.098-0.314-1.725-0.549c-0.68-0.34-0.915-1.072-1.256-1.674
+					c2.824,0.602,5.701,0.026,8.003-1.36c0.522-0.444,1.071-0.863,1.621-1.307C84.375,54.343,84.977,55.153,84.454,55.912z
+					 M75.04,74.087c-0.497-1.125-0.706-2.746-0.445-4.289c0.052,0.314,0.104,0.654,0.393,0.811c0.445-0.262-0.183-0.916,0.105-1.412
+					c0-0.994,0.078-2.092,0.758-2.877c0,0.837-0.287,1.778,0.209,2.38c0.132,0.052,0.236-0.052,0.288-0.157
+					c-0.182-1.464,0.157-3.008,1.019-4.184c0.052,0.837-0.391,1.83,0.393,2.379l0.104-0.104c-0.078-1.203,0-2.51,0.758-3.426
+					c0.81,0.576-0.026,1.805,0.706,2.354c0.288-0.392-0.104-0.837,0.104-1.255c0.341,0.235,0.68,0.523,0.81,0.915
+					C77.289,67.313,74.805,70.346,75.04,74.087z M78.064,69.255c0.077-2.089,1.542-2.718,2.723-3.428c0,0,2.783,2.745,3.123,3.352
+					c0.344,0.607,0.902,1.684,0.908,1.979c0,0-0.416,1.744-2.652,1.854C79.923,73.127,77.988,71.344,78.064,69.255z M82.702,78.168
+					c-1.231-0.027-2.433,0.443-3.27-0.574c-0.159-0.394,0.027-0.787,0.284-1.099c1.416-1.044,3.089-1.044,4.681-1.701l0.055,0.082
+					c-0.366,0.727-1.175,1.356-1.854,1.777v0.153c0.728,0.235,1.175-0.574,1.854-0.706c0.077,0.448,0.574,0.448,0.864,0.498
+					c0.049-0.049,0.159-0.104,0.159-0.208c-0.29-0.208-0.629-0.317-0.711-0.706c0.132-0.394,0.186-0.809,0.552-1.099
+					c0.235,0.366,0.678,0.519,1.099,0.602c0.208-0.159,0.497-0.104,0.706-0.054C85.993,76.675,84.451,77.857,82.702,78.168z
+					 M87.436,74.636c-0.602,0.105-1.308,0.131-1.726-0.366c-0.157-0.392-0.366-0.68-0.131-1.098c0.81,0.262,1.753,0.444,2.563,0.052
+					C88.011,73.746,87.723,74.191,87.436,74.636z M88.429,72.465c-0.732,0.601-1.883,0.471-2.668,0.104
+					c-0.313-0.235-0.209-0.444-0.235-0.811c0.889,0.262,2.197,0.471,3.059-0.157C88.611,71.864,88.56,72.203,88.429,72.465z
+					 M88.533,71.053c-0.81,0.496-2.092,0.444-3.007,0.052c-0.157-0.236-0.419-0.497-0.313-0.759c1.28,0.236,2.588-0.104,3.634-0.758
+					C88.743,69.955,89.083,70.765,88.533,71.053z M88.691,69.091c-1.047,0.732-2.615,0.942-3.819,0.444
+					c-0.287-0.104-0.313-0.444-0.471-0.654c1.544,0.052,3.322-0.13,4.342-1.595C88.978,67.81,89.03,68.621,88.691,69.091z
+					 M89.945,66.424l-0.548,0.601c-0.132-0.523-0.158-1.098-0.21-1.648C89.371,65.849,89.789,65.927,89.945,66.424z M90.966,60.174
+					c0.575-0.393,1.412-0.758,1.543-1.543c-0.078-0.314-0.104-0.68-0.287-0.968c-0.654-0.602-1.386-0.209-2.172-0.339l-1.15,0.13
+					c2.066-1.386,3.635-3.661,4.028-6.172c0.261-2.118-0.21-4.393-0.419-6.459h0.104c0.497,0.497,0.837,1.15,1.516,1.464
+					c0.158-0.026,0.236-0.183,0.288-0.314c0.706,0.811,0.993,1.935,1.412,2.929c0.104,0,0.235,0.027,0.313-0.104
+					c0.288,0.758,0.104,1.438,0.157,2.327c0.523,0.863,0.184,2.04-0.104,2.903c-0.183,0.732-1.072,0.889-1.256,1.621
+					c0.262,0.315,0.471,0,0.76-0.052c0.627-0.104,1.097,0.131,1.543,0.445c-0.209,0.654-0.628,1.36-1.308,1.673
+					c-0.156,0.052-0.209,0.209-0.156,0.393c0.522,0.392,1.281,0.235,1.725,0.863c0.549,0.575,0.758,1.282,1.047,1.961
+					c-0.523,0.261,0.026,0.732-0.052,1.124c-0.08,0.601,0.732,1.36,0.052,1.856c-0.184,0.68-0.419,1.334-0.393,2.066
+					c-0.576,0.68-0.758,1.516-1.621,1.909c-0.471,0.287-0.916,0.784-1.256,1.203c-0.261-0.523,0.235-1.098,0.209-1.7
+					c0.393-1.256,1.177-2.484,0.654-3.949c-0.339-1.36-1.49-2.406-2.824-2.746c-1.307-0.157-2.668-0.157-3.817,0.183
+					c-0.21,0.052-0.445,0.104-0.654,0.157c-0.209-0.706,1.699-1.726,0-1.857c-0.314-0.209-0.706-0.418-0.863-0.81
+					c1.019-0.235,2.065-0.392,3.164-0.497c0.157,0.104,0.393,0.052,0.523,0.236c0.313,0.157,0.235,0.628,0.183,0.915
+					c-0.287,0.288-0.602,0.654-0.889,0.81C90.966,59.939,90.757,60.096,90.966,60.174z M88.586,59.729
+					c-0.104,0.628-0.706,1.177-0.34,1.857c0.287,0.523,0.758,0.993,1.256,1.255c-0.236,0.444-0.367,0.968-0.55,1.465
+					c-0.68-1.883-1.021-3.923-1.779-5.78C87.566,59.023,88.115,59.337,88.586,59.729z M85.422,48.563
+					c-0.182,0.784-0.602,1.935-0.052,2.72c0.235,0.523,0.706,0.889,1.098,1.255c-0.418,0.706-0.784,1.569-0.235,2.301
+					c0.341,0.628,1.621,0.654,0.837,1.516c-0.209,0.471-0.182,0.863-0.182,1.412c-1.438-3.164-2.798-6.589-2.616-10.224
+					C84.611,47.909,84.977,48.407,85.422,48.563z M82.806,24.4c0.078-0.287,0.288-0.549,0.235-0.915
+					c0.184,0.131,0.288,0.419,0.366,0.654c0.157,0.523-0.523,0.994-0.052,1.308c0.575-0.419,0.549-1.517,1.464-1.569
+					c0,0.601-0.367,1.177-0.471,1.778l0.105,0.131c0.654-0.392,0.654-1.255,1.466-1.386c0.052,0.68-0.445,1.255-0.654,1.857
+					c0.418,0.183,0.549-0.366,0.915-0.549c0.235-0.078,0.419-0.288,0.706-0.209c-0.209,0.549-0.941,0.941-0.81,1.516
+					c0.523,0,0.758-0.863,1.36-0.81c-0.262,0.576-1.099,0.889-0.863,1.517c0.574-0.104,0.863-0.889,1.516-0.758
+					c-0.158,0.549-1.281,0.915-0.916,1.595c0.393-0.104,0.654-0.601,1.125-0.496c-0.393,0.313-1.177,0.653-1.019,1.255
+					c0.574-0.157,1.046-0.863,1.673-0.602c-0.078,0.183-0.419,0.262-0.366,0.549c0.053,0.288,0.366,0.209,0.549,0.366
+					c-0.444-0.236-0.915-0.026-1.256,0.235c0.106,0.419,0.602,0.052,0.812,0.314c-0.132,0.052-0.315,0-0.393,0.157
+					c0.131,0.392,0.628,0.497,1.046,0.497c0.445,0.209,0.654,0.653,0.864,1.045c-0.732,0-1.047-0.654-1.726-0.706
+					c-0.157,0-0.235,0.235-0.104,0.314c0.602,0.628,1.753,1.02,1.779,2.014c-0.654-0.314-1.229-0.837-2.014-0.863
+					c-0.21,0.523,0.497,0.549,0.758,0.811c0.366,0.34,0.68,0.705,0.758,1.15c-0.471-0.471-1.099-1.046-1.779-0.993
+					c-0.104,0.078-0.052,0.235-0.052,0.339c0.078,0.235,0.341,0.104,0.471,0.209c1.125,0.733,0.941,2.119,1.438,3.165
+					c-1.097-0.366-1.045-1.726-2.092-2.118c-0.366,0.366,0.393,0.706,0.497,1.072c0.522,0.942,0.863,2.249,0.34,3.268
+					c-1.465,1.464-3.687,2.144-4.132,4.289c-0.654,1.491-2.928,1.229-2.85,3.113c-0.366-0.315-0.131-0.837-0.052-1.203
+					c0.575-1.098,2.144-0.654,2.459-1.856c-0.078-0.131-0.21-0.105-0.341-0.105c-0.967,0.784-2.694,0.968-2.877,2.511
+					c-0.052,0.392,0.209,0.68,0.287,1.046c-0.496-0.235-0.863-0.837-0.941-1.36c0.052-0.732,0.393-1.359,1.099-1.699
+					c1.019-0.262,2.223-0.471,3.086-1.308c0.026-0.104,0-0.209-0.104-0.261c-0.68,0.235-1.491,0.47-2.223,0.209
+					c-0.784-0.314-1.674,0.078-2.354,0.497c0-0.419,0.393-0.732,0.706-0.994c1.334-0.497,2.641,0.419,4.106,0.183
+					c0.158-0.157,0.315-0.366,0.262-0.654c0.261-0.104,0.602-0.236,0.706-0.497c-0.262-0.13-0.758,0-1.099-0.104
+					c-0.915-0.34-0.837-1.621-1.962-1.648H81.29c0.339-0.313,0.863-0.313,1.307-0.209c1.203,0.419,1.465,2.328,3.033,1.622
+					c0.183-0.131,0.471-0.053,0.602-0.314l-0.209-0.209c-0.523-0.079-1.151,0.131-1.57-0.183c-0.496-0.628-0.548-1.491-1.306-1.961
+					c0.391-0.052,0.81,0.105,1.202,0.288c0.732,0.837,1.544,1.831,2.772,1.412c0.158-0.104,0.393-0.104,0.523-0.34l-0.052-0.157
+					c-0.758-0.104-1.935,0.157-2.327-0.81c-0.132-0.183,0-0.365,0.052-0.549c0.549,0.576,1.386,1.334,2.406,1.047
+					c0.262-0.236,0.837-0.157,0.863-0.654c-0.34-0.445-0.627,0.131-0.993,0.104c-0.445,0.026-0.889,0-1.177-0.34
+					c-0.549-1.412,1.151-2.302,0.968-3.792c0.548-2.902-0.132-6.459-2.877-8.29c-0.706-0.392-1.465-0.732-2.25-0.967
+					C82.048,24.975,82.624,24.687,82.806,24.4z M83.042,47.491c-0.157,0.236-0.392,0-0.548,0c-0.315-0.209-0.497-0.575-0.341-0.942
+					c0.131-0.183,0.183-0.47,0.393-0.575c0.261-0.104,0.235,0.236,0.366,0.262C83.121,46.602,82.989,47.073,83.042,47.491z
+					 M79.826,42.104l0.209-0.157h0.157L79.826,42.104z M80.243,41.215c0.497-0.549,1.256-0.496,1.909-0.366
+					c0.575,0.209,0.758,1.046,1.412,1.098C82.467,42.261,81.551,40.509,80.243,41.215z M80.191,23.38
+					c0.367,0.418,0.654,0.863,0.706,1.412l-0.313-0.314l-0.157,0.209c0.078,0.052,0.026,0.157,0.052,0.209
+					C80.297,24.426,80.139,23.877,80.191,23.38z M79.276,25.393v0.262c-0.235-0.262-0.471-0.602-0.313-0.968
+					c0.287,0.052,0.574,0.314,0.706,0.602C79.721,25.393,79.355,25.08,79.276,25.393z M76.517,35.458
+					c-0.363,0.151-0.317,0.392-0.352,0.449c0,0-0.594,0.588-1.099,0.588c-0.507,0-0.439-0.075-0.482-0.253
+					c-0.042-0.179,0.177-0.228,0.304-0.152c0.127,0.076,0.431,0.253,0.862-0.329c0.43-0.582,1.118-0.965,1.356-0.9
+					C77.106,34.86,76.879,35.307,76.517,35.458z M73.287,44.118c0.601-3.191,3.165-6.302,6.198-7.636
+					c0.575-0.209,1.151-1.073,1.805-0.471c0.104,0,0.209-0.026,0.261-0.104c0.052-0.236-0.209-0.183-0.261-0.34
+					c0.393-0.366,0.915,0.288,1.516,0.052c0.104-0.026,0.052-0.131,0.052-0.209c-0.183-0.157-0.418-0.13-0.602-0.339
+					c0.575,0.183,1.229-0.026,1.544-0.419c-0.288-0.183-0.575,0.131-0.812-0.104c0.158-0.34,0.575-0.706,0.916-0.994
+					c0.339-0.758,1.098-1.491,0.81-2.38c-0.419,0.131-0.341,0.654-0.497,0.968c-0.261,0.34-0.287,0.889-0.811,0.968
+					c-0.445,0-0.81-0.026-1.151,0.392c-0.418-0.34-0.732,0.444-1.176,0.157c-0.838-0.183-0.732-1.229-1.412-1.569
+					c-0.367,0.392,0.261,1.255-0.55,1.36c-0.393,0.078-0.837,0.236-0.994,0.653c0.026,0.497,0.052,1.047-0.47,1.256l-0.184-0.052
+					c0.184-0.34,0.471-0.706,0.288-1.151c-0.052-0.287-0.393-0.418-0.602-0.548c-1.099-0.131-1.751,1.882-2.824,0.601
+					c-0.183-3.008,3.53-3.949,4.445-6.407c0.838-0.784,1.805-1.673,3.008-1.595c0.496,0.314,0.915,0.863,1.621,0.758
+					c1.125,0.34,2.171,1.516,2.563,2.615c0.758,2.929,0.496,6.224-2.066,8.159c-0.758,0.183-1.779,0-2.118,0.837
+					c0.078,0.339,0.444,0,0.602,0.261c-0.89-0.104-1.648,0.523-2.25,1.203c-0.052,0.287-0.313,0.576-0.209,0.863
+					c-0.523,0.445-0.941,0.942-0.863,1.622c0.052,0.104,0.157,0.131,0.261,0.131c-0.391,0.549-0.654,1.307-0.313,1.882
+					c0.052,0.079,0.105,0.157,0.209,0.131c0.34-0.601,0.758-1.02,1.412-1.203h0.81c-0.706,0.209-1.569,0.496-1.83,1.308
+					c-0.341,0.627-0.341,1.438,0,2.066c0.627,0.889,1.673,1.464,2.877,1.359l0.548-0.157c0.053,1.021,0.628,2.275-0.287,3.034
+					c-1.019,1.176-2.485,1.333-3.87,1.647c-0.054,0.052-0.158,0.104-0.158,0.209c0.393,0.315,0.863-0.131,1.36-0.052
+					c1.203-0.366,2.407-0.706,3.321-1.752c0.287,0.68,0.602,1.595,0.157,2.301c-0.523,0.602-1.255,1.203-2.014,1.464
+					c-1.83,0.863-4.053,1.308-6.198,0.968h-0.156c-0.104-0.131-0.366-0.131-0.55-0.21c-0.183-0.261-0.732-0.078-0.706-0.497
+					c1.753-0.392,3.53-1.307,4.368-2.981c0.496-0.81,1.961-0.313,2.066-1.595c-0.288-0.209-0.549,0.183-0.838,0.288
+					c-0.627,0.157-1.124,0.392-1.778,0.262c-0.784,0.313-1.177,1.177-1.36,1.909c-0.34,0.026-0.497,0.418-0.758,0.549
+					c-0.393-0.575-0.784,0.367-1.203,0.445c-0.391,0.104-0.628,0.026-0.993,0.209c-0.994,0.602-2.433,1.073-2.772,2.38
+					c0.104,1.15-0.838,2.092-0.471,3.111c0.104,1.099,1.177,2.223,0.313,3.322c-0.104,0.235,0.158,0.418,0.315,0.444
+					c0.339-0.131,0.365,0.21,0.497,0.366c0.444,0.523,1.072,0.942,1.595,1.412c-0.602,0.052-1.177-0.444-1.543-0.863
+					c-0.078,0.078-0.262,0.078-0.262,0.209c0.393,0.68,0.706,1.595,1.516,1.857c0.106,0.078,0.028,0.235,0.158,0.261
+					c0.052-0.287,0.392-0.104,0.55-0.104c0.052,0.078,0.131,0.104,0.104,0.183c-1.229,0.341-1.675-0.993-2.276-1.752
+					c0.026-0.235-0.078-0.445-0.261-0.549c-0.235,0-0.497,0-0.549,0.209c0.262,1.308,0.628,2.694,1.779,3.661
+					c-1.464-0.654-1.334-2.406-2.014-3.583c-0.156-0.079-0.288,0.104-0.314,0.209c0.053,1.334,0.21,2.641,0.812,3.739
+					c-0.838-0.157-0.89-1.124-1.073-1.778c-0.131-1.517,0.341-2.982-0.287-4.315c0.026-1.595,0.209-3.478-0.158-5.099
+					c0.132-0.706,0.106-1.49,0.445-2.118c0.602-0.784,1.203-1.543,1.935-2.196l0.078,0.052l0.209-0.419l2.511-2.51
+					c0.131-1.073-0.235-2.354,0.052-3.478c0-0.183,0.313-0.393,0.052-0.549c-0.445,0.183-0.497,0.706-0.654,1.098
+					c-0.104,1.02,0.209,2.013-0.287,2.876c-0.393,0.183-0.55-0.026-0.654-0.392c0-0.81-0.236-1.543,0-2.275
+					c0.026-0.183-0.026-0.34-0.158-0.497c-0.548,0.131-0.287,0.784-0.418,1.151v2.876C71.588,48.773,71.771,46.21,73.287,44.118z
+					 M72.791,67.627v0.209c-0.078,0.026-0.104-0.052-0.158-0.105v-0.21C72.713,67.496,72.739,67.575,72.791,67.627z M72.033,67.522
+					c-0.21-0.339-0.471-0.653-0.601-1.045C71.562,66.895,72.372,66.973,72.033,67.522z M68.764,60.488
+					c-0.183,1.203-0.157,2.589,0.235,3.871c-1.202-4.812-3.53-9.938-1.36-14.907c0.575-0.941,1.492-1.961,2.668-1.961l0.157,0.157
+					c0.158,1.177,0.732,2.17,0.968,3.321c-0.523,0.444-1.203-0.262-1.569,0.444c-0.864,1.073,0.418,2.85-0.916,3.74
+					C68.188,56.801,68.712,58.893,68.764,60.488z M54.46,45.582c-0.628-1.073-0.471-2.772,0.287-3.766
+					c0.523-0.523,1.281-0.785,2.013-0.602c0.287,0.236,0.706,0.444,0.863,0.837c0,0.549,0.052,1.255-0.393,1.673
+					c-0.157,0.81,0.628,1.308,1.151,1.805c2.275,1.281,5.779,1.725,8.211,0.497c0.131-0.523-0.182-0.706-0.366-1.098
+					c-0.026-0.68-0.183-1.151,0.314-1.7c0.496-0.471,1.229-0.68,1.909-0.418c1.019,0.706,1.254,2.04,1.019,3.216
+					c-0.445,1.438-1.857,2.38-3.243,2.824c-0.235,0-0.549,0.157-0.837,0.262C61.31,49.845,56.813,48.982,54.46,45.582z
+					 M61.961,50.472v29.79c0,0-4.292,2.395-4.784,2.772l-0.038-33.973c0,0,1.875,0.727,2.887,0.88
+					C61.037,50.09,61.873,50.199,61.961,50.472z M54.302,40.953v0.21c-1.36,0.34-2.405-0.811-3.111-1.778
+					c0.392-0.34,0.915-0.052,1.36-0.052C53.283,39.593,53.963,40.247,54.302,40.953z M54.25,39.593
+					c0.367-0.209,0.941-0.471,1.412-0.209c0.393,0.156,0.654,0.523,0.863,0.863c-0.444,0.052-0.915,0.341-1.412,0.393L54.25,39.593z
+					 M58.396,42.144c0,0,0.377,0.186,0.946,0.077c0.569-0.115,1.252-0.421,1.252-0.421l0.536,0.306l-1.788,1.744
+					c0,0-0.415,0.607,0.038,0.607s0.568,0.153,0.645,0.344c0.077,0.186,0.645,0.263,0.952,0.186
+					c0.301-0.071,0.908,0.153,0.984,0.383l2.887-0.383l0.191-0.262c0,0-0.306-1.329-0.115-1.821
+					c0.191-0.498,0.645-0.115,1.099-0.683c0.459-0.574,1.635-1.52,2.433-1.482c0.799,0.038,1.023,0.798,1.176,1.974
+					c0,0-0.646-1.028-1.821-0.875c-1.182,0.153-2.166,0.306-2.549,2.505c0,0,0.039,0.76,0.383,1.219c0,0-1.137,0.454-2.504,0.454
+					c-1.367,0-3.494-0.416-4.101-0.798c-0.612-0.377-0.913-1.023-0.875-1.214C58.204,43.812,58.62,43.091,58.396,42.144z
+					 M62.461,44.275c-0.026,0.13-0.052,0.287-0.104,0.392C62.226,44.588,62.331,44.379,62.461,44.275z M63.627,40.822
+					c0.31-0.214,0.723-0.509,1.006-0.776c2.009-0.297,3.613-2.757,5.7-1.564l0.055,0.156c0.001,0.052-0.024,0.131,0.054,0.156
+					l0.051-0.106c0.777,1.059,0.751,2.55,1.373,3.717c0.063,0.653,0.572,1.297,0.242,1.905c-0.532,1.029-0.642,2.208-0.857,3.337
+					c-0.608-1.794-0.722-3.885-1.068-5.735c0.203-0.37,0.456-0.845,0.188-1.259c-0.107-0.129-0.264-0.179-0.447-0.149
+					c-0.609-0.408-1.322-0.761-2.128-0.512c-1.039,0.384-1.838,1.104-2.476,2.004c-0.079-0.103-0.262-0.047-0.367-0.046
+					c-0.668,0.666-0.86,1.611-0.714,2.497c-0.18,0.16-0.389,0.216-0.598,0.193c-0.068-0.888,0.444-1.525,0.508-2.363l-0.186-0.154
+					c-0.695,0.614-0.573,1.632-0.872,2.448l-0.103,0.081c0.013-0.76,0.471-1.499,0.561-2.312c-0.081-0.129-0.211-0.101-0.342-0.098
+					c-0.617,0.638-1.047,1.456-1.373,2.246c-0.13,0.081-0.368-0.045-0.5-0.148c0.152-0.264,0.33-0.555,0.482-0.819
+					c0.099-0.342,0.879-0.617,0.584-1.056c-0.67,0.561-1.445,1.124-1.876,1.889c-0.185-0.101-0.345-0.255-0.555-0.304
+					c0.228-0.475,0.719-0.745,1.08-1.117c0.34-0.032,0.412-0.347,0.697-0.509C62.498,42.098,63.141,41.537,63.627,40.822z
+					 M61.546,39.384c0.235,0.183,0.6,0.261,0.758,0.602c0.157,0.235,0.157,0.68,0,0.915c-0.288,0.21-0.575,0.549-0.942,0.314
+					c-0.706-0.366-0.915-1.02-1.36-1.621C60.526,39.332,60.997,39.384,61.546,39.384z M58.486,39.489
+					c0.419,0.183,0.81,0.471,1.099,0.863c0,0.288,0.47,0.393,0.366,0.706c-0.496,0.341-1.15,0.288-1.673,0.053
+					c-0.602-0.288-0.967-0.994-1.256-1.569C57.571,39.202,57.858,39.515,58.486,39.489z M57.283,37.031
+					c0.158,0.288,0.158,0.785,0,1.046c-2.38-0.13-5.021,0.052-7.452-0.156c-0.13-0.262,0-0.654,0.104-0.942
+					C52.446,36.899,54.956,36.899,57.283,37.031z M48.668,26.276c0.284,0.399,0.804,1.001,1.285,0.962v0.481
+					c0,0,0.082,0.361,0.241,0.361c0.164,0,0.284,0.082,0.284,0.405c0,0.317-0.284,4.938-0.284,4.938l-0.443,0.323l-0.361,2.368
+					c0,0-0.399-0.044-0.437,0.437c-0.044,0.487-0.202,1.728-0.405,1.81c-0.202,0.082-0.519,0.082-0.722,0.159
+					c-0.202,0.082-0.443,0.202-0.684,0.044c0,0-0.323-11.926,0-15.42c0,0,1.886,0.038,2.329-0.12v0.284c0,0-0.24,0.12-0.563,0.077
+					c-0.317-0.038-0.962-0.077-1.241,0.12v2.33C47.668,25.833,48.389,25.872,48.668,26.276z M55.558,29.421l-4.184-0.053
+					c-0.261-0.314-0.026-0.706,0-1.046c1.36-0.078,2.981-0.078,4.445,0l0.106,0.105C55.818,28.767,56.238,29.578,55.558,29.421z
+					 M51.295,29.97l0.183-0.105l4.341,0.052l0.158,0.262l0.131,3.818c-1.36,0.052-3.217,0-4.968-0.052
+					C51.191,32.689,51.008,31.12,51.295,29.97z M56.473,34.546c0.262,0.418,0.078,1.046,0.21,1.517l-0.21,0.104l-5.936-0.052
+					c-0.104-0.497,0-1.045,0.104-1.517C52.707,34.364,54.486,34.572,56.473,34.546z M56.97,20.555
+					c0.341-0.627,1.203-0.444,1.36-1.203c0.863-0.811,2.485-0.314,2.876-1.7c0.209,0,0.209,0.235,0.341,0.34
+					c0.052,0.235-0.079,0.549-0.288,0.758c-0.444,0.392-1.281,0.288-1.412,0.915c0.471,0.392,0.81-0.183,1.255-0.209
+					c0.366,0.026,0.732-0.026,1.046-0.209c0.419-0.366,0.55-0.837,0.76-1.307c0.13-0.105,0.313-0.052,0.47-0.052
+					c-0.654,0.759,0.236,2.249-0.915,2.72c-0.367,0.157-0.915,0.078-1.256-0.209c-0.235-0.236-0.445-0.523-0.758-0.497
+					c-0.313,0.549,0.68,0.837,0.602,1.412c0.078,0.523-0.157,0.994-0.602,1.255h-0.758c0.261-0.157,0.706-0.209,0.863-0.601
+					c0.236-0.523-0.183-0.915-0.261-1.36c-0.393-0.497-1.046-0.706-1.516-0.601c-0.732,0.183-1.648,0.575-1.805,1.412
+					c-0.104,0.601-0.104,1.412-0.157,1.909C56.368,22.543,56.42,21.34,56.97,20.555z M56.368,24.687v-0.497
+					c0.628-0.262,1.36,0.052,2.014-0.052c0.13,0.209,0.235,0.471,0.104,0.706c-0.287,0.105-0.706,0-0.81,0.393
+					c0,0.444-0.313,0.837-0.654,1.02c-0.287,0.262-0.941-0.078-0.915,0.497c-0.052,0.209,0.078,0.471-0.131,0.602
+					c-1.596,0.183-3.374,0.078-4.89-0.053c-0.21-0.262,0.026-0.837-0.497-0.994c-0.445-0.131-1.046-0.052-1.308-0.523
+					c-0.078-0.262-0.026-0.549-0.313-0.732c-0.158-0.13-0.445,0.079-0.549-0.157c-0.287-1.282,1.386-0.706,2.014-0.706
+					c0.157,0.288-0.104,0.732,0.209,0.941c0.654-0.079,1.753,0.444,2.014-0.445v-0.444c0.471-0.157,1.045-0.105,1.543-0.052
+					c0.21,0.288-0.052,0.915,0.419,0.941C55.165,24.897,56.159,25.419,56.368,24.687z M52.786,17.836
+					c-0.444,0.523-1.019,1.046-1.412,1.621c-0.313-0.68,1.177-1.203,0.968-2.223c0.653,0.078,1.15-1.386,1.752-0.393
+					c-0.419,0.549-0.784,0.994-0.784,1.648c0.104,0.131,0.235,0.183,0.391,0.157c-0.366,0.837-1.333,0.706-1.908,1.255
+					c0.026-0.758,1.202-1.099,1.255-1.961C52.968,17.836,52.89,17.81,52.786,17.836z M53.978,15.065l0.243,0.183
+					c0,0-0.061,0.335-0.183,0.182C53.918,15.278,53.978,15.065,53.978,15.065z M53.91,20.268c0.523-0.026,0.078,0.418,0.235,0.654
+					c-0.157,0.575-0.209,1.491,0.052,2.066v0.392c-0.706,0.131-1.673-0.052-2.197,0.157c-0.13,0.366,0.052,0.654-0.156,0.993
+					l-0.654-0.052c-0.209-0.34,0.235-0.967-0.367-1.098c-0.131,0.052-0.339,0.052-0.444-0.105c-0.052-0.471,0.392-0.575,0.706-0.758
+					c0.496-0.628,1.282-0.837,1.804-1.412C53.309,21.026,53.674,20.686,53.91,20.268z M54.903,19.013l-0.156,0.34
+					c0.13-0.549-0.915-0.994-0.078-1.412C54.826,18.281,55.06,18.647,54.903,19.013z M54.747,15.43
+					c0.104,0.026,0.235-0.026,0.313,0.053c-0.026,0.131-0.157,0.183-0.209,0.288h-0.235C54.564,15.613,54.721,15.535,54.747,15.43z
+					 M54.903,17.392c0.261,0.131,0.524,0.471,0.497,0.81C55.139,17.967,55.218,17.601,54.903,17.392z M56.473,17.601
+					c-0.287-0.288-0.078-1.02-0.602-1.177c-0.339,0.235-0.026,0.601-0.052,0.915c-0.235-0.262-0.758-0.392-0.548-0.811
+					c0.261-0.157,0.366-0.575,0.706-0.654l0.287,0.549c0.235,0.209,0.445,0.418,0.419,0.758l-0.104-0.052
+					C56.551,17.287,56.683,17.444,56.473,17.601z M55.498,14.898c0,0,0.125-0.258,0.2-0.669c0,0.378,0.124,0.578,0.124,0.578
+					s0.258-0.009,0.345-0.017c-0.246,0.006-0.561,0.241-0.561,0.241L55.498,14.898z M56.917,16.241
+					c-0.287,0-0.313-0.314-0.393-0.523c0-0.105,0.026-0.288,0.158-0.235c0,0.235,0.182,0.471,0.391,0.549
+					C57.152,16.189,56.97,16.189,56.917,16.241z M55.218,11.194c0.392,0.078,0.6,0.523,0.993,0.549
+					c0.183-0.105,0.157-0.392,0.419-0.288c0.522,0.34,0.235,1.517,1.15,1.203c0.315,0.549-1.124,0.445-0.549,1.099
+					c0.184-0.053,0.445-0.105,0.497,0.157c-0.026,0.262,0.052,0.628-0.261,0.706h-0.131c0-0.209,0.287-0.471-0.053-0.601
+					c-0.235-0.052-0.313,0.131-0.418-0.105c0.026-0.13,0.261-0.261,0.104-0.444c-0.287-0.052-0.549-0.549-0.863-0.209
+					c-0.183-0.105-0.078-0.418-0.341-0.392c-0.209-0.052-0.444,0.105-0.602,0.288C55.086,12.475,55.034,11.926,55.218,11.194z
+					 M52.838,15.221c-0.365-0.288-0.654,0.262-0.993,0.366l-0.549,0.183c-0.052-0.261,0.183-0.497,0.341-0.706
+					c0.313-0.105,0.679-0.471,1.019-0.235c0.287-0.026,0.157-0.392,0.131-0.549c-0.287-0.261-0.183-0.601-0.052-0.915l0.104-0.104
+					c0.13,0.209,0.34,0.418,0.602,0.444c0.315-0.314-0.209-0.863,0.209-1.203c0.21,0.157,0.602,0.079,0.367,0.497
+					c0,0.079,0,0.288,0.183,0.366h0.157c0.053,0.157-0.157,0.131-0.157,0.262c-0.026,0.261,0.183,0.497,0.419,0.549
+					c0.087,0.013,0.162,0.011,0.231-0.003c0.076-0.039,0.149-0.078,0.213-0.102c-0.068,0.055-0.137,0.086-0.213,0.102
+					c-0.171,0.089-0.364,0.18-0.545,0.107c-0.392-0.183,0.106-0.863-0.444-0.915c-0.367,0.314-0.158,0.915-0.419,1.203
+					c-0.104,0.445-0.523,0.837-0.287,1.36c-0.131,0.523-0.602,0.575-1.021,0.758c-0.47,0.105-0.967,0.105-1.36,0.314
+					C50.956,15.901,52.55,16.372,52.838,15.221z M50.641,17.941c0.157-0.471,0.654-0.576,1.099-0.602
+					c0.183,0.758-0.864,1.046-1.021,1.674C50.458,18.673,50.511,18.385,50.641,17.941z M51.191,19.797
+					c-0.078,0.366-0.314,0.889,0,1.229c0.392,0.052,0.549-0.444,0.889-0.575l1.177-0.236c-0.523,0.34-1.021,0.863-1.569,1.151
+					c-0.184,0.105-0.236-0.157-0.393-0.157c-0.313,0.183-0.235,0.68-0.654,0.811c0.131-0.235,0.261-0.523,0.183-0.759
+					c-0.078-0.052-0.131-0.157-0.235-0.104c-0.287,0.262-0.287,0.628-0.602,0.863c-0.078-0.157,0-0.471-0.261-0.601
+					c-0.445,0.052-0.21,1.203-0.758,0.496c-0.288-0.026-0.419,0.34-0.654,0.419c0.104-0.079,0.104-0.523-0.21-0.575l-0.548,0.418
+					l-0.052-0.497c-0.419-0.183-0.68,0.34-0.994,0.497c-0.157-0.288,0.942-0.471,0.34-0.863c-0.34-0.052-0.497,0.366-0.812,0.366
+					c0.158-0.497,0.759-0.314,0.916-0.758c0.47,0.287,1.177,0.183,1.621-0.105C49.255,20.033,50.276,19.823,51.191,19.797z
+					 M46.544,37.354l-0.161,1.284c0,0-0.16-2.168-0.16-3.332s0-12.004,0-12.004s0-0.361,0.281-0.361L46.544,37.354z M46.3,15.587
+					c0.131,0,0.313,0.026,0.313,0.183c0.026,1.438-0.026,3.086-0.052,4.445c-0.052,0.105-0.157,0.053-0.261,0.053
+					C46.222,18.621,46.222,17.13,46.3,15.587z M48.05,18.495c0.208,0.339-0.262,0.837,0.208,1.072
+					c0.29-0.082,0.683-0.262,0.968-0.055c-0.027,0.208-0.312,0.263-0.47,0.394c-0.311,0.47-0.76,0.782-1.307,0.705
+					c-0.366-0.131-0.235-0.394-0.339-0.656l0.104-2.351c0.077,0,0.104,0.077,0.181,0.132c-0.077,0.104-0.153,0.235-0.131,0.366
+					C47.503,18.309,47.739,18.468,48.05,18.495z M47.556,13.757c0.522,1.595,3.059,2.536,2.562,4.498
+					c-0.418,0.471,0.575,1.125-0.235,1.151c-0.209-1.046-1.752,0.105-1.36-1.203c-0.104-0.209-0.576-0.183-0.471-0.418
+					c0.262-0.078,0.549-0.288,0.706-0.549c-0.287-0.549-0.837,0.235-1.15-0.105c0.078,0,0.706,0.052,0.862-0.288
+					c-0.052-0.601-0.837-0.157-1.203-0.366l-0.104,0.157c-0.183-0.837,0.315-1.49,0.235-2.223
+					C47.189,14.149,47.504,13.966,47.556,13.757z M47.268,12.763c-0.628,0.235,0.131,0.941-0.418,1.255
+					c0.026,0.445,0.157,0.811-0.104,1.203c-0.393-0.262-0.576-0.732-0.759-1.151c0.158-0.523,0.288-1.124,0.628-1.516l0.132-0.393
+					C47.007,12.24,47.085,12.58,47.268,12.763z M46.692,11.507c-0.13,0.131-0.156,0.418-0.392,0.392
+					c-0.026-3.635-0.209-6.773-0.052-10.068c0.183,0,0.444-0.026,0.444,0.209l-0.13,0.706C46.614,5.676,46.718,8.5,46.692,11.507z
+					 M55.714,3.741l0.157-0.235c5.074,2.353,10.879,4.001,16.71,2.798L73.68,6.12v0.104c-1.987,2.51-4.89,3.034-7.74,3.557
+					c-3.583,0.575-6.799-0.314-10.173-0.706c-0.209-0.393-0.078-0.732-0.104-1.203C55.662,6.513,55.61,5.362,55.714,3.741z
+					 M50.537,4.551V2.747c0.365-0.287,0.915-0.104,1.36-0.157l0.104,0.261c0.209,0.628-0.261,1.726,0.602,1.857
+					c0.889,0.235,1.831,0.183,2.562,0.758l-0.052,0.837c-0.941-0.209-1.856-0.523-2.876-0.549c-0.392,0.471-0.157,1.307-0.235,1.83
+					l-0.104,0.942c-0.549-0.21-1.673,0.496-1.412-0.602c-0.052-0.627,0.497-1.647-0.315-2.118c-0.993,0.157-2.039,0.288-2.955,0.654
+					V5.467c0.994-0.418,2.014-0.732,3.165-0.758L50.537,4.551z M45.333,1.492c-0.419,0.654,0.261,1.177,0.313,1.7
+					c-0.313-0.157-0.549-0.392-0.706-0.706c-0.13-0.471-0.052-0.968,0.209-1.36c0.576-0.314,1.282-0.811,1.961-0.392
+					c0.261,0.235,0.445,0.444,0.602,0.706c0.183,0.235,0.131,0.627,0.052,0.889c-0.131,0.157-0.261,0.235-0.419,0.262
+					c0.078-0.34,0.314-0.654,0.158-1.02c-0.288-0.34-0.628-0.785-1.099-0.785C45.96,0.838,45.568,1.126,45.333,1.492z
+					 M48.523,40.953c-0.993,0.236-2.249,0.367-2.876-0.549c-0.104-0.262-0.026-0.575,0.104-0.811
+					c1.125-0.549,2.092,0.288,2.772,1.203V40.953z M48.314,39.489l0.052-0.157c1.019-0.183,1.909,0.183,2.458,0.967
+					c-0.548,0-0.758,0.419-1.254,0.497L48.314,39.489z M38.245,43.621c0.21-0.418,0.706-0.81,1.203-0.863
+					c0.549-0.157,0.915,0.261,1.308,0.418c0.365,0.314,0.419,0.759,0.549,1.151c0.209,0.706-1.36,1.621,0,2.014
+					c0.261,0.052,0.522,0.104,0.81,0.157c0.654,0.262,1.438,0.183,2.17,0.288c2.144-0.157,4.55-0.497,5.831-2.458
+					c0.367-0.602-0.47-1.02-0.339-1.569c-0.078-0.419,0.104-0.706,0.287-1.099c0.367-0.549,1.021-0.602,1.622-0.496
+					c0.496,0.262,1.098,0.549,1.36,1.098c0.105,0.419,0.313,0.784,0.339,1.255c0.052,0.576-0.104,1.046-0.287,1.517
+					c-0.602,1.805-2.589,3.007-4.236,3.661c-2.852,0.916-6.172,1.073-8.866-0.287c-1.073-0.758-2.301-1.726-2.144-3.217
+					C37.697,44.562,38.141,44.17,38.245,43.621z M50.27,49.062v33.787c0,0-0.065,0.202-0.574-0.202
+					c-0.503-0.405-4.314-2.466-4.314-2.466l0.055-29.861C45.437,50.319,49.078,49.707,50.27,49.062z M40.259,50.629
+					c1.282,4.786-0.576,9.284-1.699,13.677c0.183-0.968,0.339-2.118,0.287-3.165c-0.576-1.673,0.628-3.243-0.104-4.786
+					c0.052-0.68-0.313-1.334-0.81-1.856c-0.052-1.177,0.157-2.484-0.602-3.373c-0.419,0.052-0.967,0.183-1.308-0.104
+					c0.288-1.203,0.706-2.328,1.073-3.478C38.69,47.727,39.842,49.217,40.259,50.629z M44.941,44.222
+					c0.078,0.13,0.183,0.287,0.209,0.444C45.071,44.588,44.888,44.405,44.941,44.222z M35.369,43.36
+					c0.419-1.203,0.654-2.511,1.021-3.766c0.104-0.68,0.784-1.203,1.412-1.36c1.908,0.131,3.294,1.491,5.073,1.909
+					c1.099,0.628,1.464,1.752,2.615,2.17c0.706,0.419,1.464,0.968,2.014,1.569c-0.262,0.078-0.393,0.34-0.654,0.34
+					c-0.471-0.758-1.203-1.36-1.909-1.805c-0.104,0.549,0.68,0.837,0.863,1.308l0.341,0.549c-0.184,0.052-0.628,0.471-0.654-0.052
+					c-0.341-0.706-0.654-1.438-1.308-2.014c-0.13,0-0.314,0-0.34,0.157l0.654,2.118l-0.104,0.131
+					c-0.391-0.732-0.157-1.961-0.967-2.458c-0.288,0.392,0.026,0.837,0.157,1.203c0.078,0.392,0.157,0.81,0.261,1.176
+					c-0.131,0.236-0.392,0.026-0.602,0c0.079-0.941-0.104-1.909-0.81-2.589c-0.784,0.157-0.863-0.889-1.569-1.203
+					c-0.837-0.497-1.935-1.151-2.876-0.497c-0.367,0.497-1.464,0.288-1.047,1.203l0.262,0.706c-0.393,1.883-0.288,3.765-0.916,5.544
+					c-0.183-0.628-0.287-1.36-0.548-2.014C35.657,44.902,34.951,44.17,35.369,43.36z M32.754,36.115c0,0,0.239,0.405-0.496,0.405
+					c-0.71,0-1.114-0.532-1.316-0.886c-0.203-0.354-0.456-0.467-0.646-0.512l-0.052-0.209c0,0,0.647,0.063,0.875,0.367
+					C31.346,35.583,31.959,36.521,32.754,36.115z M28.335,24.74c0.13,0.366-0.078,0.706-0.313,0.968v-0.366h-0.393
+					C27.811,25.132,28.021,24.766,28.335,24.74z M27.027,23.484h0.131c-0.026,0.523-0.131,0.915-0.287,1.308
+					c-0.052,0.105,0.104-0.262-0.104-0.209c-0.157-0.079-0.288,0.104-0.341,0.209C26.295,24.347,26.844,23.929,27.027,23.484z
+					 M25.302,26.361c1.072-0.471,1.961,0.523,2.824,1.047c0.235,0.47,0.837,0.81,0.915,1.36c1.412,1.778,3.949,2.981,4.027,5.386
+					c-0.341,0.236-0.758,0.68-1.308,0.445c-0.497-0.34-0.967-1.229-1.725-0.889c-0.393,0.235-0.628,0.706-0.445,1.151
+					c0.156,0.157,0.156,0.366,0.209,0.549c-0.418-0.078-0.576-0.523-0.628-0.863c0.104-0.288-0.157-0.732-0.444-0.941
+					c-0.341-0.053-0.68-0.105-0.942-0.315c-0.339-0.392,0.523-1.203-0.313-1.098c-0.549,0.576-0.628,1.83-1.701,1.517
+					c-0.313-0.523-0.941,0.209-1.176-0.523c-0.367,0.104-0.758,0.026-1.047-0.183c-0.497-0.523-0.576-1.203-0.915-1.779h-0.104
+					c0.026,1.229,0.576,2.485,1.778,3.191l0.052,0.183c-0.235,0.288-0.81-0.13-0.863,0.262c0.471,0.262,1.021,0.418,1.569,0.262
+					c-0.104,0.365-0.993,0.209-0.47,0.602c0.47,0.052,0.889-0.262,1.36-0.157v0.157c-0.104,0-0.158,0.131-0.236,0.183
+					c0,0.078,0.106,0.13,0.184,0.209c0.365,0.052,0.68-0.549,1.019-0.105c3.426,1.438,6.617,4.76,7.297,8.42
+					c1.019,1.099,1.15,2.615,1.36,3.975c0.052,1.019-0.054,1.961-0.315,2.824c-0.131-0.915,0.209-2.092,0-2.981
+					c-0.078-0.367-0.052-0.889-0.445-1.047c-0.418,0.341-0.078,0.628-0.104,1.047c-0.078,0.784,0.21,1.804-0.496,2.223
+					c-0.445,0-0.393-0.471-0.549-0.758c0.026-0.995,0.313-2.668-0.654-3.321c-0.183,0.261,0.104,0.602,0.157,0.863
+					c0.026,0.942-0.026,1.831-0.157,2.668c0.026,0.445,0.339,0.732,0.602,1.046c1.464,1.438,3.32,3.086,4.471,4.838
+					c0.968,1.909-0.523,3.818,0.209,5.832c0.026,0.863-0.209,1.778-0.444,2.615c0,1.359,0.628,3.687-0.863,4.576
+					c0.496-1.177,0.785-2.589,0.653-3.87c-0.104-0.027-0.183-0.21-0.261-0.053c-0.261,0.471-0.366,1.02-0.549,1.517
+					c-0.052-0.654,0.654-1.177,0.158-1.805c-0.236,0-0.445,0-0.602,0.183c0.026,0.026-0.026-0.236-0.158-0.288
+					c-0.392,0.078-0.601,0.602-0.967,0.706c-0.235,0-0.393,0.235-0.602,0.235c0.576-0.627,1.386-1.098,1.779-1.856
+					c0.261,0.026,0.602-0.026,0.549-0.341c-0.132-0.365-0.184-0.784-0.367-1.124c0.471-1.438,1.203-3.19,0.209-4.629
+					c0.262-1.883-1.699-2.537-2.929-3.217c-0.654-0.078-1.308-0.418-1.857-0.863l-0.235,0.262c-0.261-0.131-0.419-0.523-0.758-0.549
+					c-0.261-0.733-0.68-1.622-1.464-1.909c-0.915,0.209-1.701-0.262-2.433-0.654c-0.183,0.104-0.131,0.34-0.078,0.445
+					c0.393,1.15,1.831,0.365,2.249,1.516c0.628,1.072,1.413,1.883,2.615,2.196c0.471,0.287,1.073,0.314,1.57,0.576
+					c-1.047,0.784-2.511,0.915-3.766,0.654c-1.177,0-2.405-0.341-3.53-0.706c-0.287-0.209-0.706-0.209-0.967-0.471
+					c-0.654-0.471-1.596-0.941-1.648-1.857c-0.131-0.653,0.184-1.098,0.393-1.699c1.124,1.308,2.824,1.778,4.576,1.909
+					c0.026-0.053,0.132-0.079,0.106-0.157c-0.706-0.471-1.648-0.392-2.407-0.706c-0.837-0.34-1.857-0.942-2.17-1.909
+					c-0.026-0.759,0.235-1.412,0.209-2.171c1.36,0.288,2.824-0.104,3.556-1.307c0.315-0.811,0.158-1.962-0.496-2.668
+					c-0.445-0.288-0.89-0.549-1.412-0.602c0.444-0.157,0.967-0.052,1.412,0.209c0.602,0.105,0.628,1.569,1.15,0.549
+					c0.078-0.575-0.104-1.15-0.444-1.621c0.576-0.183,0.026-0.706,0.052-1.047c-0.34-0.418-0.942-0.68-0.758-1.255
+					c-0.471-0.916-1.49-1.648-2.459-1.569c0.209-0.104,0.497,0.026,0.654-0.209c-0.497-1.203-2.066-0.104-2.668-1.308
+					c-2.301-2.144-2.249-4.995-1.517-7.845c0.367-0.916,1.151-1.727,2.014-2.38C23.994,26.963,24.883,27.145,25.302,26.361z
+					 M36.729,66.529c0.026,0.758-0.68,1.438-1.256,1.909C35.997,67.941,36.442,67.235,36.729,66.529z M35.971,66.686
+					c0.026,0.367-0.365,0.523-0.445,0.837C35.212,67.183,35.84,67.025,35.971,66.686z M23.653,67.025
+					c-1.751,0.079-3.478-0.653-4.288-2.222c-0.209-0.654,0.13-1.334,0.314-1.962c1.228,2.302,3.713,3.086,6.224,2.825
+					C25.38,66.555,24.569,66.869,23.653,67.025z M24.203,67.522c-0.549,1.229-1.962,0.968-3.164,0.916
+					c-0.994-0.21-2.04-0.942-2.276-1.962c0.106-0.367,0-0.837,0.262-1.151C20.175,67.131,22.293,67.758,24.203,67.522z
+					 M24.752,65.117c-1.727-0.026-3.687-0.81-4.577-2.459c-0.522-0.627,0.106-1.124,0.21-1.778h0.13
+					c1.725,2.249,4.367,3.059,7.113,2.72C27.053,64.698,25.955,65.195,24.752,65.117z M26.818,63.155
+					c-1.988,0.078-3.845-0.497-5.335-1.804c-0.261-0.496-0.889-0.942-0.654-1.621c0.236-0.287,0.158-0.706,0.497-0.967
+					c1.753,2.014,4.263,3.19,6.956,2.667c0.287-0.104,0.68-0.052,0.941-0.078c0.078-0.026,0.026-0.131,0.158-0.105h0.157
+					C29.067,62.371,28.021,63.103,26.818,63.155z M25.851,60.776c-1.57-0.341-3.295-0.916-4.027-2.459
+					c-0.262-0.732,0.157-1.438,0.576-2.014c2.144,2.432,5.203,3.269,8.237,2.824l0.706-0.261c0,0.471-0.601,0.81-0.81,1.255
+					C29.197,60.959,27.472,61.089,25.851,60.776z M30.635,58.527c-2.223,0.34-4.497,0.026-6.328-1.203
+					c-0.758-0.68-1.882-1.334-1.517-2.537c0.235-0.288,0.209-1.046,0.706-0.889c0.393,0.444,0.811,0.837,1.308,1.046
+					c1.334,0.863,2.824,1.569,4.471,1.569c1.177,0.366,2.563,0.026,3.688-0.105C32.623,57.481,31.682,58.265,30.635,58.527z
+					 M24.752,46.079c0.235,0.026,0.339,0.288,0.445,0.47c0.078,0.367,0.078,0.837-0.288,0.995c-0.157,0.13-0.313,0.183-0.549,0.157
+					C24.255,47.125,24.307,46.445,24.752,46.079z M27.785,42.417c-0.235-0.235-0.576-0.366-0.81-0.549
+					C27.289,42,27.602,42.182,27.785,42.417z M26.714,41.294c-0.497-0.131-1.073,0.078-1.569,0.313
+					c-0.419,0.209-0.812,0.575-1.255,0.445c0.784-0.445,1.36-1.648,2.668-1.099l0.47,0.341
+					C27.053,41.346,26.896,41.268,26.714,41.294z M22.634,43.019c-0.784-1.751-2.876-1.935-3.923-3.478
+					c-0.654-1.464,0.158-2.824,1.047-3.922c0-0.131-0.026-0.314-0.183-0.314c-0.994,0.419-0.968,1.831-2.066,2.118
+					c0.522-1.124,0.366-2.902,1.856-3.269c0.052-0.104,0.13-0.183,0.104-0.339c-0.444-0.34-0.941,0.183-1.36,0.392
+					c-0.209,0.157-0.365,0.444-0.6,0.497c0.261-0.602,0.81-1.334,1.464-1.516c0.13-0.078,0.183-0.235,0.235-0.34
+					c-0.261-0.235-0.549,0-0.837,0l-1.229,0.759c-0.078-1.047,1.255-1.386,1.779-2.223c-0.419-0.183-0.864,0.288-1.308,0.444
+					l-0.602,0.157c0.026-0.261,0.365-0.549,0.549-0.81c0.418-0.261,0.915-0.366,1.36-0.549c0.052-0.157-0.079-0.235-0.158-0.339
+					h-0.261c0.235-0.183,0.732-0.052,0.863-0.314c-0.339-0.262-0.758-0.418-1.203-0.288c0-0.026,0.602-0.078,0.497-0.471
+					c-0.13-0.104-0.235-0.287-0.392-0.339v-0.104c0.654-0.157,1.176,0.418,1.699,0.654c0.078-0.053,0.104-0.157,0.104-0.262
+					c-0.209-0.496-0.732-0.706-1.15-0.993c0.392-0.157,0.758,0.287,1.15,0.444c0.341-0.733-0.68-0.863-0.915-1.465
+					c0.602-0.339,0.993,0.549,1.517,0.706c0.209-0.078,0.078-0.313,0.052-0.444c-0.235-0.445-0.654-0.654-0.915-1.099
+					c0.549-0.131,0.81,0.628,1.36,0.837c0.104-0.157,0-0.47-0.131-0.654c-0.314-0.235-0.471-0.627-0.706-0.941
+					c0.68-0.052,1.045,0.654,1.595,0.863c0.026-0.654-0.732-1.15-0.602-1.935c0.837,0.026,0.889,1.046,1.517,1.36
+					c0.104-0.654-0.365-1.203-0.444-1.857c0.261-0.157,0.548,0.209,0.837,0.314c0.313,0.366,0.183,1.334,0.863,1.046
+					c-0.209-0.575-0.339-1.334,0.104-1.857c0.13,0.576,0.341,1.255,0.863,1.648v0.261c-1.986,0.549-4.184,2.118-4.785,4.237
+					c-0.89,2.51-0.786,5.883,0.758,8.107c0.078,0.497-0.078,0.811-0.419,1.046c-0.497,0.183-1.177,0.13-1.595-0.157
+					c-0.131-0.026-0.315,0-0.315,0.157c0.078,0.602,0.784,0.576,1.255,0.706c0.837,0,1.595-0.496,2.014-1.203
+					c0.183,0.262,0.026,0.497,0,0.759c-0.445,0.942-1.673,0.471-2.353,0.811c0.313,0.68,1.124,0.366,1.647,0.392
+					c1.151-0.287,1.517-2.014,2.877-1.673c-1.125,0.496-0.576,2.249-2.066,2.222c-0.365,0-0.758-0.262-1.046,0.052
+					c0.392,0.392,1.019,0.602,1.647,0.445c1.125-0.367,1.464-2.249,2.981-1.701c0.131,0.052,0.236,0.157,0.393,0.157
+					c-0.602,0-1.256,0-1.805,0.392c-0.496,0.445-0.602,1.438-1.464,1.36c-0.287,0.13-0.732-0.288-0.81,0.157
+					c0.209,0.393,1.045,0.21,0.758,0.81c0.628,0.524,1.595,0.21,2.275,0.053l0.052,0.078c0.367-0.104,0.706-0.262,1.099-0.288
+					c0.602,0.131,1.334,0.236,1.621,0.915l0.078,0.288c-0.81-0.523-2.039-0.837-2.902-0.393c-0.706,0.026-1.15-0.13-1.778-0.313
+					c-0.158,0.052-0.158,0.235-0.052,0.313c1.228,1.569,4.628,0.497,4.132,3.374c-0.184,0.367-0.445,0.784-0.838,0.942
+					c0.236-0.418,0.288-0.942,0.184-1.412c-0.471-1.36-1.962-1.334-2.904-2.144c-0.104,0-0.183,0.026-0.261,0.13
+					c-0.104,0.418,0.419,0.576,0.654,0.759c0.654,0.339,1.595,0.339,1.909,1.255c0.026,0.288,0.157,0.732-0.104,0.968
+					c-0.026-0.654-0.602-1.412-1.308-1.805C23.601,44.902,22.843,44.066,22.634,43.019z M20.725,55.389
+					c0.367-0.236,0.549-0.628,0.706-0.994c0.341-0.863-1.281-1.674,0-2.171c0.784-0.732,1.021-1.961,0.654-2.877
+					c-0.157-0.13-0.104-0.366-0.261-0.497c0.496-0.34,0.889-0.784,1.308-1.255c0.052,3.556-0.994,6.668-2.354,9.623l-0.261,0.654
+					C20.777,56.957,19.234,55.807,20.725,55.389z M12.723,61.482c-1.438,0.863-1.753,2.51-1.621,3.974
+					c0.235,1.36,1.02,2.511,1.02,3.949c-0.81-1.203-2.668-1.647-2.981-3.243c0.026-0.889-0.209-1.673-0.654-2.353
+					c0.157-0.706,0.313-1.438,0.471-2.17c0.026-0.183-0.026-0.34-0.157-0.445H8.747v-0.157c0.419-1.177,1.255-2.484,2.668-2.563
+					c0.471-0.575-0.576-0.601-0.758-1.019c-0.314-0.34-0.393-0.758-0.602-1.151c0.471-0.392,1.151-0.628,1.752-0.392
+					c0.105,0.052,0.209,0.157,0.366,0.13c0.262-0.13,0.104-0.341,0.052-0.497c-1.282-0.81-1.647-2.458-1.516-3.87
+					c0.549-0.68,0-1.752,0.34-2.615c0.052-0.104,0.183,0.157,0.366,0.052c0.366-0.994,0.784-1.988,1.308-2.929l0.157-0.053
+					c0,0.131,0.052,0.236,0.183,0.314h0.21l1.412-1.464c0.235,1.203-0.419,2.406-0.393,3.713c-0.13,2.615,0.209,5.099,2.014,7.061
+					c0.654,0.68,1.308,1.307,2.066,1.857c-1.021,0.078-2.249-0.418-3.243,0.209c-0.313,0.34-0.313,0.889-0.235,1.307
+					c0.392,0.628,0.915,0.994,1.543,1.255l0.052-0.052c-0.287-0.68-1.438-0.941-0.993-1.857c0.548-0.627,1.228-0.131,1.96-0.209
+					c0.602,0.183,1.308,0.104,1.909,0.262c-0.261,0.706-1.124,0.784-1.569,1.255c0.052,0.575,0.915,0.784,0.706,1.464
+					C16.749,60.749,14.344,60.514,12.723,61.482z M17.848,63.103c0.654-0.314,1.36-0.994,1.36-1.804
+					c0.052-0.497-0.287-0.863-0.445-1.308c0.419-0.444,1.047-0.732,1.412-1.307c-0.758,1.856-1.15,3.922-1.725,5.779
+					C18.241,63.992,18.189,63.495,17.848,63.103z M18.005,67.183c-0.157,0-0.392-0.445-0.602-0.602
+					c0.262-0.235,0.602-0.628,0.812-0.968C18.161,66.136,18.161,66.712,18.005,67.183z M18.606,67.522
+					c1.021,1.438,2.746,1.648,4.393,1.569c-0.104,0.314-0.339,0.68-0.706,0.759c-0.889,0.339-2.04,0.235-2.929-0.053
+					c-0.313-0.209-0.732-0.444-0.863-0.81C18.371,68.49,18.476,67.967,18.606,67.522z M18.554,69.85
+					c1.02,0.732,2.433,0.889,3.687,0.706c0,0.339-0.157,0.601-0.418,0.81c-0.706,0.235-1.727,0.523-2.511,0.183
+					c-0.365-0.078-0.549-0.392-0.758-0.654V69.85z M18.763,71.864c0.942,0.444,2.17,0.575,3.165,0.105
+					c0.026,0.365-0.026,0.732-0.393,0.889c-0.81,0.366-1.778,0.497-2.51-0.13C18.763,72.517,18.869,72.151,18.763,71.864z
+					 M19.313,73.485c0.81,0.418,1.727,0.209,2.563-0.052l0.104,0.183c0.13,0.366-0.261,0.523-0.235,0.863
+					c-0.341,0.236-0.68,0.549-1.125,0.497c-0.183-0.052-0.471-0.078-0.706-0.104C19.705,74.4,19.391,74.008,19.313,73.485z
+					 M28.021,77.857c-1.203,1.071-2.8,0.498-4.189,0.262c-1.383-0.552-2.69-1.52-3.554-2.772c0.601,0.181,1.383,0,1.805-0.47
+					c0.366,0.126,0.394,0.602,0.601,0.913c0.159,0.705-0.94,0.443-0.601,1.017c0.416,0.131,0.651-0.153,0.913-0.366v-0.104
+					c0.656,0.131,1.126,0.837,1.805,0.76c0.104-0.055,0.055-0.181,0.055-0.29c-0.525-0.285-1.099-0.624-1.466-1.176
+					c-0.104-0.208-0.339-0.366-0.339-0.602c1.569,0.809,3.637,0.525,4.916,1.908C28.043,77.201,28.256,77.594,28.021,77.857z
+					 M29.421,69.633c-0.038,0.497-0.077,3.117-3.986,3.532c0,0-0.001,0-0.003,0c-0.092-0.001-2.571-0.027-2.802-1.744
+					c-0.12-0.913,1.816-3.303,2.307-3.724c0.498-0.416,1.827-1.717,1.827-1.717s1.985,1.269,2.51,2.122
+					C29.273,68.101,29.459,69.141,29.421,69.633z M32.466,74.217c0.235-3.661-2.249-6.774-5.203-8.761
+					c0.052-0.366,0.418-0.81,0.81-0.993c0.078,0.418-0.21,0.993,0.157,1.256c0.628-0.602-0.183-1.962,0.706-2.354l0.392,0.785
+					c0.184,0.837,0.523,1.778,0.315,2.667c0.078,0.053,0.13,0.131,0.235,0.105l0.21-2.51c0.967,1.177,1.071,2.824,1.15,4.341
+					c0.052,0.13,0.157,0.13,0.262,0.078c0.548-0.628,0.052-1.517,0.209-2.301c0.784,1.15,0.758,2.824,0.654,4.132
+					c0.078,0.052,0.13,0.156,0.235,0.104c0.184-0.183,0.288-0.419,0.314-0.706C33.173,71.393,32.964,72.909,32.466,74.217z
+					 M33.161,66.674c0.131,0.263,0.416,0.684,0.569,0.853c0.153,0.169,0.169,0.437,0.115,0.645c-0.054,0.208-0.153,0.323-0.169,0.59
+					c-0.022,0.263-0.115,1.154-0.115,1.154s-0.345-2.444-2.395-5.217c-0.864-1.17-1.821-1.865-1.821-1.865s0.055-0.323,0.476-0.793
+					c0.416-0.475,3.188-4.484,3.549-5.074c0.361-0.585,0.705-1.252,1.028-1.252c0.224,0,0.984,0.476,1.176,0.76
+					c0,0,0.077,1.635,0.569,2.433c0,0-1.384,5.031-1.482,5.162c-0.093,0.131-1.214,0.629-1.29,0.683
+					c-0.077,0.055-0.23,0.169,0.06,0.53c0.285,0.361,0.624,0.683,0.416,0.859c-0.208,0.17-0.284,0.224-0.284,0.224
+					S33.029,66.406,33.161,66.674z M34.061,66.921c0.314-0.262,0.838-0.157,1.203-0.444c0.445-0.393,0.602-0.916,1.019-1.36
+					c-0.444,0.758-0.915,1.778-1.908,1.857L34.061,66.921z M34.925,67.679l-0.158,0.314c-0.131-0.052,0-0.209,0.052-0.314H34.925z
+					 M45.437,84.391c-1.05-0.443-1.936-1.148-2.958-1.646c-0.623-0.47-1.361-0.76-1.957-1.307c-3.74-2.122-6.174-5.468-6.097-9.782
+					c0.208-0.755-0.18-1.832,0.131-2.51c0.075-0.044,0.161-0.058,0.251-0.058c0.286,0,0.63,0.146,0.924,0.009l0.235-0.109
+					c0.055,0.186-0.18,0.525,0.159,0.711c0.421,0.022,0.76-0.109,1.154-0.241c-0.476,4.451,1.723,8.268,5.539,10.307
+					c3.768,2.089,7.743,3.921,10.936,7.24c0.492,0.028,0.492-0.547,0.809-0.781c3.631-3.533,8.339-4.993,12.238-7.978
+					c2.613-2.275,3.817-5.462,3.401-8.891c0.471,0,1.044,0.497,1.411,0l-0.186-0.602c0.393,0.345,0.995,0.366,1.416,0.132
+					c0.235,0.344,0.235,0.968,0.235,1.411c0.339,4.396-1.52,8.268-5.233,10.439c-4.653,3.395-10.095,5.462-13.987,10.121
+					l-0.159,0.049C51.501,88.082,48.285,86.277,45.437,84.391z M14.788,81.936c0.312-0.602,0.886-0.837,1.514-0.968
+					c3.243,0.104,4.916,3.844,8,4.391c0.946,0.208,2.144,0.394,2.855-0.366c0.208-0.547-0.449-0.809-0.733-1.044
+					c-1.465-0.705-3.319-0.629-4.998-0.705c-0.257-0.208-0.519-0.366-0.755-0.656c2.04-0.235,4.21,0.131,6.146,0.552
+					c0.623,0.443,1.646,0.574,1.805,1.515c0.131,0.601-0.186,1.154-0.656,1.361c-1.52,0.629-2.822,0.263-4.418,0.049
+					c-1.569-0.284-2.904-1.176-4.079-2.428c-0.918-0.891-1.908-2.018-3.166-1.597c-0.235,0.235-0.262,0.629-0.158,0.94l0.29,0.471
+					c2.067,1.624,4.418,2.51,6.797,3.324c0.864,0.257,1.804,0.678,2.772,0.941c5.835,1.542,11.352,3.346,17.574,3.975
+					c2.592,0.443,5.599,0.547,8.213,0.809l0.104-0.104c7.688,0.022,14.567-0.864,21.73-2.619c1.542-0.415,2.876-0.837,4.446-1.203
+					c3.45-0.858,6.906-2.061,10.171-3.581c0.968-0.733,2.855-1.044,2.565-2.668c-0.208-0.416-0.76-0.339-1.148-0.284
+					c-2.122,0.94-3.346,3.658-5.704,3.975c-1.881,0.208-4.155,1.149-5.544-0.601c-0.021-0.449-0.021-0.919,0.263-1.258
+					c1.258-1.203,3.008-1.23,4.681-1.515h3.008c-0.498,1.334-2.04,0.415-2.904,0.76c-1.149,0.18-2.483,0.208-3.423,1.044
+					c-0.104,0.208-0.29,0.497-0.055,0.705c1.285,0.968,3.035,0.104,4.369-0.339c2.352-1.203,4.079-4.549,7.163-3.478
+					c0.394,0.153,0.656,0.602,0.706,0.99c-0.022,0.995-0.706,1.859-1.515,2.384c-1.777,1.383-3.872,2.143-5.939,2.953
+					c-7.086,2.379-14.643,4.156-22.304,5.151c-2.22,0.104-4.472,0.443-6.747,0.552c-5.386,0.049-10.695-0.366-15.95-1.307
+					c-0.421,0.104-0.809-0.186-1.258-0.159c-6.851-1.542-13.676-3.035-20.057-5.884C16.959,85.151,14.443,84.107,14.788,81.936z
+					 M23.209,84.074l0.077,0.005c1.017,0.049,2.045,0.049,2.887,0.552l0.016,0.005v0.017c0,0.082-0.027,0.142-0.076,0.169
+					c-0.049,0.027-0.109,0.033-0.169,0.033c-0.12-0.005-0.251-0.028-0.312,0.028l-0.011,0.011l-0.011-0.006
+					c-0.733-0.158-1.706-0.235-2.34-0.765L23.209,84.074z M28.327,86.786l-0.022,0.049c-0.104,0.219,0.011,0.596-0.279,0.722h-0.005
+					H28.01l-1.252-0.366l-0.082-0.027l0.082-0.022c0.498-0.158,1.023-0.213,1.515-0.344L28.327,86.786z M18.884,84.085l-0.027,0.044
+					c-0.656-0.262-1.498-0.705-1.739-1.323l-0.022-0.049l0.049,0.016c0.692,0.212,1.237,0.815,1.733,1.307
+					C18.88,84.081,18.882,84.083,18.884,84.085z M78.748,86.879v-0.033l0.032,0.005l1.466,0.339l0.071,0.016l-0.066,0.033
+					c-0.262,0.131-0.842,0.317-1.372,0.317h-0.011l-0.006-0.011C78.721,87.377,78.753,87.06,78.748,86.879z M89.411,83.472
+					c-0.421,0.262-0.814,0.525-1.263,0.711l-0.077,0.028l0.044-0.066c0.267-0.426,1.083-1.055,1.766-1.268l0.044-0.011l-0.011,0.044
+					c-0.054,0.245-0.319,0.456-0.505,0.561L89.411,83.472z M83.85,84.151v0.004l0.017,0.022c-0.952,0.553-1.947,0.793-3.023,0.711
+					h-0.022l-0.006-0.016c-0.027-0.082-0.016-0.153,0.028-0.197c0.043-0.044,0.104-0.065,0.169-0.087
+					c0.131-0.038,0.29-0.066,0.361-0.158l0.005-0.006l0.005-0.005c0.842-0.235,1.553-0.235,2.466-0.29V84.151z M3.852,73.777
+					c0.159-0.864,0.995-1.597,1.859-1.755c0.037-0.001,0.074-0.001,0.11-0.001c1.711,0,3.372,0.614,4.887,1.155
+					c0.809,0.416,1.722,0.623,2.406,1.356c-0.186,1.154-0.76,2.122-1.05,3.22c-0.366,0.705-0.394,1.542-0.809,2.22
+					c-0.339-0.055-0.678-0.285-0.914-0.443c0.077-0.656,0.388-1.411,0.52-2.067c0.29-0.656,0.602-1.307,0.76-2.012
+					c0.159-0.553-0.47-0.76-0.809-0.968c-1.416-0.815-3.166-1.362-4.79-1.203c-0.388,0.104-0.782,0.443-0.913,0.809
+					c-0.312,2.406,1.963,4.079,3.686,5.337c1.651,0.989,3.374,1.7,5.178,2.302c0.131,0.181,0,0.492-0.104,0.706
+					c-2.116-0.421-4.106-1.23-5.933-2.357C5.634,78.797,3.464,76.44,3.852,73.777z M6.041,74.165
+					c0.999-0.49,2.116-0.001,3.088,0.235l0,0.001c0.616,0.259,1.237,0.615,1.753,0.956l-1.289,3.716
+					c-1.608-0.784-3.104-2.161-3.751-3.896h0C5.815,74.82,5.821,74.436,6.041,74.165z M6.024,74.143c0.001,0,0.001,0,0.001,0
+					l0.003,0.004L6.024,74.143z M5.819,75.185l-0.004,0.002v-0.001L5.819,75.185z M13.738,83.193l-0.024-0.003l0.001-0.002
+					L13.738,83.193z M2.911,76.103l0.003,0.001L2.911,76.103C2.911,76.103,2.911,76.103,2.911,76.103z M10.824,91.428h-0.005
+					l-0.003,0.016l-0.005,0.009l0.008-0.025c-3.111-1.017-6.059-2.51-8.514-4.987c-1.072-1.203-2.056-2.685-1.482-4.287v-0.005
+					c0.547-2.06,1.513-3.967,2.115-6.032l0.001,0.001l0.207-0.37c0.313,0.871,0.807,1.72,1.396,2.437
+					c2.358,2.903,5.86,3.928,9.146,5.024c-0.081,0.955-0.524,1.889-0.731,2.85l0.027,0.006c0,0.001,0,0.002-0.001,0.003
+					l-0.026-0.009c-0.469,1.539-0.966,3.051-1.463,4.568c-0.161,0.139-0.157,0.428-0.211,0.643c-0.022,0.104-0.06,0.186-0.12,0.224
+					c-0.021,0.012-0.047,0.018-0.08,0.018C11.021,91.512,10.937,91.489,10.824,91.428z M95.136,96.601
+					c-7.169,4.085-14.993,5.992-23.102,7.77c-1.646,0.18-3.424,0.525-5.047,0.76c-5.883,0.733-12.396,0.886-18.465,0.733
+					c-2.094-0.082-4.003-0.263-6.042-0.498c-3.013-0.131-5.835-0.76-8.711-1.258c-7.562-1.624-15.174-3.581-21.872-7.349
+					c-0.848-0.612-1.034-1.515-0.875-2.433v-0.006c0.787-2.876,1.908-5.594,2.718-8.47c0.186-0.678,0.317-1.361,0.656-1.968
+					l0.022-0.033l0.022,0.027c2.505,2.74,5.846,3.68,9.066,4.834l0,0.001c4.394,1.279,8.735,2.613,13.277,3.476h0.006
+					c3.603,0.962,7.606,1.252,11.527,1.646c5.725,0.733,11.527-0.159,16.968-0.705c4.232-0.602,8.339-1.569,12.363-2.723
+					c4.762-1.334,9.594-2.455,13.744-5.22l-0.002-0.002l1.049-1.203l0.017-0.016l0.022,0.016l0.208,0.208l0.005,0.005v0.011
+					c0.788,3.112,1.805,6.113,2.877,9.094v0.005C95.825,94.376,96.093,95.797,95.136,96.601z M95.644,91.557L95.644,91.557
+					l0.001,0.003C95.644,91.559,95.644,91.558,95.644,91.557z M105.973,84.331c-1.716,3.673-5.758,5.373-9.131,6.942l0-0.003
+					c-0.389,0.108-0.752,0.259-1.182,0.262c-0.984-2.677-1.741-5.436-2.47-8.222c0.33-0.17,0.892-0.121,1.289-0.385l0-0.002
+					c3.576-1.2,7.701-3.053,9.23-6.989c0.233,0.184,0.341,0.633,0.515,0.965l0.001-0.001c0.58,2.463,2.189,4.653,1.75,7.432
+					L105.973,84.331z M106.001,84.341l0,0.002l-0.011-0.004l0.011,0.001C106.001,84.34,106.001,84.341,106.001,84.341z"/>
+				<polygon points="97.395,79.268 97.41,79.289 97.397,79.267 				"/>
+				<polygon points="36.779,92.21 36.781,92.205 36.781,92.188 36.778,92.21 				"/>
+				<polygon points="101.093,74.479 101.107,74.472 101.091,74.479 				"/>
+				<polygon points="88.138,84.159 88.148,84.183 88.141,84.161 				"/>
+				<polygon points="80.241,87.218 80.246,87.191 80.24,87.217 				"/>
+				<polygon points="18.866,84.106 18.867,84.107 18.884,84.085 18.869,84.099 				"/>
+				<polygon points="18.867,84.106 18.867,84.107 18.866,84.106 18.856,84.128 18.867,84.107 				"/>
+				<polygon points="92.664,84.21 92.665,84.21 92.681,84.188 92.662,84.208 				"/>
+				<polygon points="95.54,93.309 95.543,93.308 95.562,93.298 95.54,93.308 				"/>
+				<polygon points="81.392,84.445 81.393,84.445 81.384,84.418 81.388,84.443 				"/>
+				<path d="M81.133,28.166c-0.419,0.654-0.942-0.026-1.412-0.052c-0.341,0.104-0.628,0.365-0.837,0.654
+					c-0.132,0.287-0.367,0.523-0.419,0.81c1.256,0.602,2.118-0.549,3.217-0.81c0.104-0.131,0.444-0.157,0.313-0.445
+					C81.761,28.14,81.421,28.061,81.133,28.166z M79.989,29.286c-0.153,0.147-0.439,0.19-0.605,0.195
+					c-0.177,0.006-0.407-0.116-0.407-0.116l0.269-0.278c0,0,0.102,0.247,0.331,0.255c0.325,0.011,0.394-0.286,0.394-0.286
+					c0.052,0.064,0.096,0.078,0.165,0.09C80.076,29.182,80.037,29.248,79.989,29.286z"/>
+				<path d="M90.966,60.174c-0.652,0.28-1.098,0.486-2.118,0.863C89.057,60.985,90.331,60.561,90.966,60.174z"/>
+				<path d="M93.032,55.258c1.176-2.641,1.516-5.937,0.549-8.813c-0.053-0.052-0.132-0.157-0.21-0.157
+					c-0.131,0.392-0.026,0.784,0.104,1.151c0.706,2.301,0.184,4.733-0.6,6.851c-0.21,0.393-0.602,0.837-0.419,1.255
+					C92.691,55.728,92.928,55.467,93.032,55.258z"/>
+				<path d="M95.437,50.629c0-0.078-0.078-0.104-0.157-0.104v0.287h0.157V50.629z"/>
+				<path d="M93.476,55.859c0.732-0.104,0.916-0.915,1.308-1.412c0.34-1.046,0.654-2.17,0.602-3.321l-0.157,0.104
+					c-0.235,1.046-0.367,2.118-0.941,3.007C94.156,54.891,93.163,55.179,93.476,55.859z"/>
+				<path d="M97.556,62.999c0.13,0.313-0.052,0.576,0.158,0.863c0.287-1.098,0-2.379-0.576-3.321
+					c-0.393-0.523-0.838-0.993-1.36-1.36c-0.262-0.078-0.367,0.157-0.341,0.341C96.693,60.409,97.32,61.665,97.556,62.999z"/>
+				<path d="M95.882,67.131c-0.026,0.339-0.182,0.601-0.288,0.863c0,0.157,0.026,0.288,0.106,0.34
+					c0.654-1.098,0.967-2.406,1.202-3.609c0.184-1.412-0.313-3.085-1.621-3.948c-0.157,0.026-0.209,0.183-0.157,0.313
+					c0.837,0.915,1.412,1.987,1.465,3.165C96.484,65.274,96.143,66.189,95.882,67.131z"/>
+				<polygon points="96.09,75.451 96.089,75.45 96.071,75.429 96.087,75.451 96.066,75.456 96.087,75.451 				"/>
+				<polygon points="89.892,82.904 89.891,82.904 89.891,82.904 				"/>
+				<rect x="89.891" y="82.903" width="0.001" height="0.001"/>
+				<polygon points="18.866,84.106 18.866,84.106 18.867,84.106 				"/>
+				<path d="M21.29,92.188l0.071-0.18l-1.564-0.635l-0.071,0.181c0.569,0.284,0.563,0.558,0.383,0.995l-0.891,2.204l-0.011-0.006
+					l-1.269-4.123l-1.536-0.623l-0.071,0.18c0.093,0.038,0.202,0.11,0.405,0.777l-1.394,3.445c-0.191,0.481-0.416,0.448-0.875,0.323
+					l-0.071,0.186l1.651,0.667l0.071-0.181c-0.514-0.279-0.613-0.476-0.399-1.001l1.176-2.914l0.016,0.011l1.641,5.249l0.208,0.082
+					l1.728-4.287C20.628,92.194,20.737,92.041,21.29,92.188z"/>
+				<path d="M21.366,92.243c0.334,0.131,0.64,0.251,0.481,0.744l-1.17,3.609c-0.153,0.465-0.394,0.41-0.831,0.317l-0.06,0.186
+					l4.364,1.416l0.804-1.454l-0.208-0.066c-0.837,0.974-1.662,0.919-2.395,0.683c-0.481-0.158-0.596-0.295-0.487-0.623l0.585-1.805
+					c0.738,0.241,1.044,0.586,0.831,1.548l0.197,0.065l0.82-2.526l-0.197-0.06c-0.41,0.891-0.853,0.957-1.569,0.716l0.563-1.728
+					c0.104-0.323,0.246-0.306,0.656-0.175c1.006,0.328,1.476,0.689,1.307,1.805l0.186,0.06l0.487-1.504l-4.304-1.4L21.366,92.243z"
+					/>
+				<path d="M33.205,95.464l0.044-0.192l-1.394-0.322l-0.044,0.191c0.257,0.077,0.525,0.148,0.454,0.459
+					c-0.038,0.159-0.087,0.235-0.131,0.306l-1.449,2.406l-0.011-0.005l-0.23-2.734c-0.016-0.153-0.033-0.356-0.011-0.443
+					c0.06-0.263,0.284-0.219,0.618-0.164l0.044-0.191l-2.39-0.552l-0.044,0.191c0.366,0.098,0.432,0.202,0.492,0.394l0.098,0.798
+					l-1.432,2.122h-0.016l-0.273-2.969c-0.011-0.093-0.016-0.18,0.006-0.268c0.066-0.279,0.284-0.246,0.563-0.208l0.044-0.192
+					l-2.247-0.52l-0.044,0.192c0.311,0.12,0.372,0.213,0.415,0.613l0.558,4.975l0.213,0.049l2.22-3.253l0.049,0.01l0.459,3.872
+					l0.208,0.049l2.592-4.249C32.718,95.568,32.931,95.425,33.205,95.464z"/>
+				<path d="M37.169,100.051c-0.755,0.624-1.378,0.76-1.98,0.667c-0.241-0.038-0.837-0.252-1.072-0.864
+					c-0.208-0.541-0.137-1.29-0.06-1.755c0.208-1.307,0.695-2.45,1.826-2.27c0.88,0.143,1.389,1.154,1.553,1.87l0.197,0.027
+					l0.284-1.81l-0.208-0.033c-0.11,0.181-0.202,0.334-0.41,0.296c-0.202-0.027-0.738-0.503-1.438-0.612
+					c-1.624-0.257-2.936,0.771-3.183,2.346c-0.23,1.449,0.547,2.876,2.351,3.16c0.15,0.024,0.293,0.036,0.43,0.036
+					c0.766,0,1.344-0.354,1.91-0.823L37.169,100.051z"/>
+				<path d="M41.603,100.565l-1.23-4.309l-0.219-0.027l-2.253,4.057c-0.307,0.552-0.449,0.804-0.875,0.815l-0.022,0.196l1.58,0.192
+					l0.022-0.197c-0.262-0.044-0.634-0.115-0.596-0.41c0.017-0.126,0.181-0.427,0.465-0.962l1.75,0.213
+					c0.082,0.263,0.257,0.87,0.235,1.083c-0.033,0.257-0.175,0.246-0.662,0.224l-0.022,0.197l2.521,0.312l0.022-0.197
+					C41.948,101.719,41.855,101.44,41.603,100.565z M38.629,99.63l0.968-1.804l0.552,1.991L38.629,99.63z"/>
+				<path d="M44.72,96.886c0.924,0.066,1.329,1.001,1.433,1.559l0.219,0.016l0.12-1.7l-0.235-0.017
+					c-0.049,0.148-0.099,0.258-0.279,0.246c-0.224-0.017-0.574-0.301-1.203-0.344c-1.487-0.104-1.805,0.946-1.837,1.422
+					c-0.022,0.361-0.071,1.033,1.225,1.771l0.503,0.284c0.492,0.279,0.848,0.492,0.809,1.017c-0.005,0.104-0.099,0.875-1.039,0.809
+					c-0.995-0.071-1.383-0.99-1.487-1.789l-0.224-0.016l-0.137,1.935l0.23,0.011c0.038-0.12,0.088-0.258,0.252-0.246
+					c0.241,0.017,0.574,0.306,1.318,0.361c0.072,0.005,0.143,0.007,0.211,0.007c1.288,0,1.799-0.856,1.845-1.511
+					c0.06-0.853-0.503-1.345-0.76-1.498l-1.11-0.651c-0.634-0.377-0.771-0.558-0.744-0.984
+					C43.867,97.066,44.315,96.858,44.72,96.886z"/>
+				<path d="M46.809,98.526l0.224,0.005c0.202-1.247,1.012-1.258,1.564-1.268l-0.148,4.128c-0.022,0.662-0.208,0.667-0.787,0.694
+					l-0.006,0.197l2.8,0.098l0.005-0.197c-0.574-0.06-0.766-0.082-0.738-0.749l0.142-4.128c0.541,0.049,1.345,0.114,1.46,1.377
+					l0.224,0.005l0.044-1.575l-4.708-0.164L46.809,98.526z"/>
+				<path d="M54.459,102.189c-0.525,0-0.7-0.06-0.7-0.437V98.05c0-0.689,0.246-0.7,0.793-0.722v-0.197h-2.74v0.197
+					c0.356,0.021,0.678,0.038,0.678,0.558v3.794c0,0.476-0.235,0.503-0.678,0.558v0.197h4.538l0.323-1.782h-0.23
+					C56.083,101.539,55.645,102.189,54.459,102.189z"/>
+				<path d="M59.391,102.031c-0.508,0.028-0.661-0.054-0.678-0.399l-0.098-1.897c0.771-0.038,1.186,0.174,1.328,1.148l0.202-0.011
+					l-0.136-2.646l-0.202,0.011c-0.066,0.979-0.454,1.203-1.209,1.231L58.5,97.651c-0.017-0.339,0.126-0.377,0.558-0.399
+					c1.056-0.055,1.624,0.11,1.859,1.214l0.197-0.011l-0.082-1.574l-4.523,0.24l0.011,0.197c0.361,0,0.694,0,0.722,0.52l0.197,3.789
+					c0.027,0.487-0.219,0.52-0.662,0.591l0.011,0.196l4.582-0.24l0.23-1.646l-0.218,0.01
+					C60.95,101.747,60.162,101.993,59.391,102.031z"/>
+				<path d="M68.315,96.415l-0.022-0.197l-1.717,0.18l0.022,0.197c0.672-0.039,0.798,0.218,0.847,0.694l0.246,2.379
+					c0.054,0.498,0.164,1.695-1.209,1.837c-1.126,0.12-1.235-0.956-1.285-1.4l-0.274-2.608c-0.071-0.689,0.169-0.721,0.683-0.798
+					l-0.022-0.192l-2.636,0.274l0.022,0.197c0.437,0,0.645-0.006,0.711,0.651l0.273,2.603c0.093,0.842,0.322,1.093,0.689,1.356
+					c0.399,0.284,0.895,0.346,1.27,0.346c0.143,0,0.269-0.009,0.365-0.018c0.471-0.049,1.132-0.268,1.477-0.733
+					c0.289-0.389,0.328-1.093,0.279-1.553l-0.263-2.488C67.719,96.628,67.889,96.525,68.315,96.415z"/>
+				<path d="M73.641,95.529l-0.033-0.191L71.94,95.6l0.033,0.197c0.634-0.054,0.771,0.186,0.842,0.651l0.371,2.352h-0.016
+					l-3.21-2.882l-1.635,0.257l0.027,0.197c0.104-0.017,0.23-0.017,0.75,0.448l0.58,3.675c0.082,0.514-0.126,0.601-0.58,0.727
+					l0.027,0.197l1.76-0.279l-0.033-0.197c-0.579,0.033-0.765-0.092-0.858-0.65l-0.487-3.095l0.017-0.005l4.111,3.653l0.214-0.033
+					l-0.722-4.566C73.073,95.874,73.094,95.688,73.641,95.529z"/>
+				<path d="M76.539,99.291l-0.788-3.713c-0.109-0.519,0.258-0.607,0.613-0.7l-0.038-0.192l-2.69,0.574l0.044,0.191
+					c0.355-0.055,0.721-0.115,0.83,0.394l0.788,3.713c0.098,0.475-0.192,0.568-0.602,0.694l0.044,0.192l2.685-0.569l-0.039-0.191
+					C76.955,99.745,76.643,99.783,76.539,99.291z"/>
+				<path d="M80.481,98.137l-1.072-3.997c0.536-0.11,1.323-0.279,1.799,0.891l0.224-0.054l-0.427-1.52l-4.544,1.219l0.383,1.526
+					l0.218-0.055c-0.169-1.258,0.602-1.504,1.121-1.679l1.072,3.997c0.17,0.634-0.005,0.7-0.547,0.892l0.049,0.191l2.701-0.722
+					l-0.049-0.192C80.843,98.744,80.656,98.783,80.481,98.137z"/>
+				<path d="M86.95,95.311c-0.082,1.279-0.777,1.733-1.504,1.985c-0.481,0.164-0.65,0.126-0.765-0.202L84.063,95.3
+					c0.738-0.252,1.192-0.159,1.597,0.738l0.197-0.07l-0.864-2.504l-0.192,0.065c0.202,0.957-0.109,1.28-0.82,1.52l-0.596-1.722
+					c-0.109-0.317,0.016-0.394,0.421-0.536c1-0.345,1.591-0.339,2.127,0.656l0.186-0.066l-0.514-1.493l-4.282,1.477l0.065,0.186
+					c0.35-0.093,0.667-0.186,0.831,0.301l1.236,3.593c0.159,0.459-0.061,0.558-0.471,0.749l0.066,0.186l4.336-1.492l-0.23-1.646
+					L86.95,95.311z"/>
+				<path d="M88.17,90.745l-2.187,0.973l0.082,0.18c0.29-0.098,0.612-0.224,0.809,0.213l1.569,3.532
+					c0.12,0.268,0.071,0.536-0.383,0.738l0.082,0.18l2.263-1.012c1.783-0.858,2.057-2.324,1.471-3.641
+					C91.385,90.805,90.176,89.848,88.17,90.745z M90.193,95.349c-0.345,0.153-0.465,0.049-0.59-0.235L88,91.516
+					c-0.082-0.153-0.164-0.328,0.296-0.536c0.188-0.084,0.367-0.12,0.537-0.12c0.938,0,1.581,1.128,1.831,1.679
+					C91.423,94.25,90.997,94.988,90.193,95.349z"/>
+				<path d="M26.975,29.526c0.523,0.444,1.334,0.078,1.909,0.104c-0.235-0.445-0.523-0.994-0.915-1.308
+					c-0.341-0.183-0.759-0.183-1.047,0.105c-0.339,0.236-0.576-0.157-0.863-0.261c-0.288,0-0.549,0-0.706,0.209
+					c-0.104,0.078-0.026,0.21,0,0.288C25.929,28.898,26.503,29.055,26.975,29.526z M27.211,29.05c0,0,0.057,0.3,0.382,0.3
+					c0.23,0,0.339-0.243,0.339-0.243l0.26,0.287l-0.54,0.066c-0.146,0.018-0.32-0.027-0.467-0.18
+					c-0.048-0.039-0.084-0.108-0.143-0.145C27.111,29.125,27.156,29.113,27.211,29.05z"/>
+				<path d="M31.499,33.187c0.209,0.156,0.183,0.445,0.444,0.575c0.158,0.078,0.445,0.131,0.602-0.052
+					c0-0.341,0.209-0.68-0.078-0.968c-0.209-0.131-0.523-0.183-0.758-0.157c-0.026-0.078,0.078-0.104,0.104-0.183
+					c0-0.078,0.052-0.209-0.052-0.262c-0.209,0.026-0.393,0.157-0.523,0.314c-0.209,0.157-0.47-0.026-0.602-0.052
+					c0.132,0.418,0.367,0.785,0.602,1.151C31.473,33.605,31.394,33.291,31.499,33.187z"/>
+				<path d="M75.511,32.14c-0.026,0.183,0.157,0.366,0.078,0.497l-0.131-0.105c-0.158-0.026-0.288,0.026-0.419,0.052
+					c-0.523,0.104-0.183,0.68-0.287,1.021c0.157,0.156,0.34,0.209,0.548,0.156c0.315-0.13,0.367-0.471,0.55-0.706
+					c0.052,0.157,0.052,0.471,0.315,0.392c0.104-0.392,0.444-0.759,0.548-1.098h-0.157C76.139,32.794,75.981,31.931,75.511,32.14z"
+					/>
+				<path d="M16.436,60.383c0.43,0.139,1.677,0.693,2.066,0.863C18,60.921,16.726,60.406,16.436,60.383z"/>
+				<path d="M14.946,55.441c-0.576-1.125-1.099-2.249-1.23-3.556c-0.601-1.857,0.131-3.635,0.209-5.387h-0.157
+					c-0.967,2.798-0.863,6.015,0.315,8.656c0.183,0.236,0.235,0.706,0.654,0.654C14.893,55.781,14.998,55.624,14.946,55.441z"/>
+				<path d="M12.017,51.022v-0.157c0.026-0.131-0.078-0.079-0.104-0.157c-0.105,0.052-0.131,0.157-0.105,0.262
+					C11.833,51.074,11.938,51.022,12.017,51.022z"/>
+				<path d="M12.069,51.466c-0.104-0.052-0.157-0.157-0.262-0.052c0.105,1.334,0.314,2.642,0.968,3.74
+					c0.261,0.34,0.497,0.889,0.993,0.942c0.104-0.052,0.262-0.183,0.209-0.34C12.775,54.552,12.356,53.035,12.069,51.466z"/>
+				<path d="M11.311,60.279c0.183-0.34,0.602-0.288,0.602-0.706c-0.105-0.078-0.183-0.209-0.341-0.157
+					c-1.543,1.019-2.353,2.746-2.066,4.733h0.105C9.82,62.711,10.16,61.272,11.311,60.279z"/>
+				<path d="M11.259,61.639c-1.622,1.752-0.706,4.445,0,6.302c0.104,0.235,0.157,0.602,0.444,0.654
+					c-0.392-2.066-1.7-4.341-0.183-6.355c0.104-0.445,1.046-0.732,0.497-1.255C11.703,61.089,11.519,61.429,11.259,61.639z"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<path d="M123.815,39.162c0-4.05,2.951-7.175,7.117-7.175c4.166,0,7.117,3.125,7.117,7.175s-2.951,7.175-7.117,7.175
+			C126.767,46.337,123.815,43.213,123.815,39.162z M136.082,39.162c0-2.99-2.025-5.439-5.149-5.439
+			c-3.125,0-5.149,2.449-5.149,5.439s2.025,5.439,5.149,5.439C134.057,44.601,136.082,42.152,136.082,39.162z"/>
+		<path d="M140.946,38.352h-1.968v-1.504h1.968v-2.044c0-2.43,0.849-3.626,3.124-3.626c0.386,0,0.811,0.02,1.292,0.135l-0.193,1.543
+			c-0.328-0.135-0.637-0.173-0.983-0.173c-1.273,0-1.485,0.791-1.485,2.064v2.102h2.063v1.504h-2.083v7.638h-1.735V38.352z"/>
+		<path d="M147.023,38.352h-1.968v-1.504h1.968v-2.044c0-2.43,0.849-3.626,3.124-3.626c0.386,0,0.811,0.02,1.292,0.135l-0.193,1.543
+			c-0.328-0.135-0.637-0.173-0.983-0.173c-1.273,0-1.485,0.791-1.485,2.064v2.102h2.063v1.504h-2.083v7.638h-1.735V38.352z
+			 M153.446,32.315c0.694,0,1.273,0.579,1.273,1.273s-0.579,1.272-1.273,1.272s-1.273-0.578-1.273-1.272
+			S152.751,32.315,153.446,32.315z M152.559,36.848h1.736v9.142h-1.736V36.848z"/>
+		<path d="M163.612,39.278c-0.636-0.675-1.312-1.022-2.275-1.022c-1.891,0-2.854,1.524-2.854,3.24c0,1.717,1.157,3.105,2.951,3.105
+			c0.964,0,1.639-0.347,2.218-1.022l1.234,1.234c-0.907,1.003-2.141,1.408-3.472,1.408c-2.816,0-4.783-1.948-4.783-4.764
+			c0-2.816,1.929-4.822,4.783-4.822c1.331,0,2.604,0.463,3.51,1.447L163.612,39.278z"/>
+		<path d="M167.375,32.296c0.694,0,1.273,0.579,1.273,1.273s-0.579,1.273-1.273,1.273s-1.273-0.579-1.273-1.273
+			S166.681,32.296,167.375,32.296z M166.508,36.848h1.735v9.142h-1.735V36.848z"/>
+		<path d="M171.041,37.967c0.964-0.906,2.353-1.35,3.626-1.35c2.7,0,3.819,1.466,3.819,3.047v4.667c0,0.636,0.019,1.176,0.077,1.659
+			h-1.543c-0.039-0.463-0.058-0.926-0.058-1.389h-0.038c-0.771,1.177-1.813,1.62-3.202,1.62c-1.697,0-3.163-0.964-3.163-2.739
+			c0-2.353,2.257-3.163,5.034-3.163h1.273v-0.386c0-0.945-0.694-1.929-2.179-1.929c-1.331,0-1.968,0.559-2.604,1.042L171.041,37.967
+			z M175.94,41.593c-1.639,0-3.645,0.289-3.645,1.755c0,1.042,0.771,1.485,1.967,1.485c1.929,0,2.604-1.427,2.604-2.662v-0.579
+			H175.94z"/>
+		<path d="M181.149,31.409h1.736V45.99h-1.736V31.409z"/>
+		<path d="M191.856,43.135c0.655,1.003,1.794,1.466,2.894,1.466c1.215,0,2.719-0.771,2.719-2.276c0-3.144-6.73-1.196-6.73-6.519
+			c0-1.601,1.35-3.819,4.629-3.819c1.484,0,2.912,0.309,3.934,1.562l-1.504,1.37c-0.463-0.713-1.369-1.196-2.43-1.196
+			c-2.045,0-2.662,1.234-2.662,2.083c0,3.452,6.731,1.389,6.731,6.307c0,2.643-2.122,4.224-4.745,4.224
+			c-1.755,0-3.433-0.598-4.358-1.89L191.856,43.135z"/>
+		<path d="M201.868,31.409h1.736V45.99h-1.736V31.409z"/>
+		<path d="M207.675,42.055c0,1.601,1.485,2.662,3.086,2.662c1.061,0,1.832-0.54,2.507-1.37l1.313,1.003
+			c-0.965,1.254-2.296,1.871-4.051,1.871c-2.893,0-4.706-2.083-4.706-4.803c0-2.738,1.986-4.802,4.726-4.802
+			c3.221,0,4.455,2.469,4.455,4.822v0.617H207.675z M213.152,40.667c-0.039-1.523-0.887-2.662-2.643-2.662
+			c-1.717,0-2.835,1.447-2.835,2.662H213.152z"/>
+		<path d="M218.401,42.055c0,1.601,1.485,2.662,3.086,2.662c1.061,0,1.832-0.54,2.507-1.37l1.313,1.003
+			c-0.965,1.254-2.296,1.871-4.051,1.871c-2.893,0-4.706-2.083-4.706-4.803c0-2.738,1.986-4.802,4.726-4.802
+			c3.221,0,4.455,2.469,4.455,4.822v0.617H218.401z M223.879,40.667c-0.039-1.523-0.887-2.662-2.643-2.662
+			c-1.717,0-2.835,1.447-2.835,2.662H223.879z"/>
+		<path d="M226.716,36.848h2.006l2.739,7.001l2.623-7.001h1.852l-3.588,9.142h-1.909L226.716,36.848z"/>
+		<path d="M238.773,42.055c0,1.601,1.485,2.662,3.086,2.662c1.061,0,1.832-0.54,2.508-1.37l1.311,1.003
+			c-0.964,1.254-2.295,1.871-4.05,1.871c-2.894,0-4.706-2.083-4.706-4.803c0-2.738,1.986-4.802,4.726-4.802
+			c3.221,0,4.455,2.469,4.455,4.822v0.617H238.773z M244.251,40.667c-0.038-1.523-0.888-2.662-2.643-2.662
+			c-1.716,0-2.835,1.447-2.835,2.662H244.251z"/>
+		<path d="M254.399,43.135c0.655,1.003,1.794,1.466,2.894,1.466c1.215,0,2.719-0.771,2.719-2.276c0-3.144-6.73-1.196-6.73-6.519
+			c0-1.601,1.35-3.819,4.629-3.819c1.484,0,2.912,0.309,3.934,1.562l-1.504,1.37c-0.463-0.713-1.369-1.196-2.43-1.196
+			c-2.045,0-2.662,1.234-2.662,2.083c0,3.452,6.731,1.389,6.731,6.307c0,2.643-2.122,4.224-4.745,4.224
+			c-1.755,0-3.433-0.598-4.358-1.89L254.399,43.135z"/>
+		<path d="M264.277,36.848h1.736v1.312h0.038c0.675-0.984,1.948-1.543,3.183-1.543c2.835,0,4.648,2.102,4.648,4.802
+			c0,2.739-1.833,4.803-4.648,4.803c-1.312,0-2.565-0.598-3.183-1.543h-0.038v6.751h-1.736V36.848z M266.014,41.419
+			c0,1.852,1.156,3.183,3.008,3.183s3.01-1.331,3.01-3.183s-1.158-3.182-3.01-3.182S266.014,39.567,266.014,41.419z"/>
+		<path d="M280.481,36.616c2.72,0,4.86,2.141,4.86,4.802c0,2.662-2.141,4.803-4.86,4.803s-4.86-2.141-4.86-4.803
+			C275.621,38.758,277.762,36.616,280.481,36.616z M280.481,44.601c1.852,0,3.009-1.331,3.009-3.183s-1.157-3.182-3.009-3.182
+			s-3.009,1.331-3.009,3.182S278.63,44.601,280.481,44.601z"/>
+		<path d="M287.523,36.848h1.736v1.408h0.038c0.443-0.964,1.601-1.639,3.009-1.639c1.774,0,3.317,1.061,3.317,3.491v5.883h-1.735
+			v-5.4c0-1.717-0.984-2.353-2.084-2.353c-1.446,0-2.545,0.926-2.545,3.047v4.706h-1.736V36.848z"/>
+		<path d="M303.109,39.143c-0.405-0.502-1.003-0.907-1.871-0.907c-0.81,0-1.523,0.367-1.523,1.022c0,1.1,1.563,1.254,2.334,1.428
+			c1.504,0.366,2.661,0.945,2.661,2.661c0,2.064-1.89,2.874-3.703,2.874c-1.504,0-2.623-0.386-3.529-1.62l1.312-1.08
+			c0.56,0.56,1.215,1.08,2.218,1.08c0.888,0,1.852-0.366,1.852-1.157c0-1.042-1.446-1.234-2.198-1.408
+			c-1.485-0.366-2.797-0.849-2.797-2.604c0-1.909,1.755-2.816,3.472-2.816c1.215,0,2.469,0.424,3.124,1.504L303.109,39.143z"/>
+		<path d="M311.231,36.616c2.72,0,4.86,2.141,4.86,4.802c0,2.662-2.141,4.803-4.86,4.803s-4.86-2.141-4.86-4.803
+			C306.371,38.758,308.512,36.616,311.231,36.616z M311.231,44.601c1.852,0,3.009-1.331,3.009-3.183s-1.157-3.182-3.009-3.182
+			s-3.009,1.331-3.009,3.182S309.38,44.601,311.231,44.601z"/>
+		<path d="M318.273,36.848h1.736v1.408h0.038c0.443-0.964,1.601-1.639,2.739-1.639c0.27,0,0.539,0.039,0.771,0.116l-0.078,1.871
+			c-0.289-0.077-0.578-0.135-0.848-0.135c-1.697,0-2.623,0.926-2.623,2.932v4.59h-1.736V36.848z"/>
+		<path d="M124.589,57.473h4.946l7.022,11.479h0.047V57.473h3.639v16.519h-4.759l-7.209-11.759h-0.047v11.759h-3.64V57.473z"/>
+		<path d="M153.895,72.032c-1.12,1.424-2.963,2.24-4.783,2.24c-3.5,0-6.299-2.333-6.299-5.949s2.799-5.95,6.299-5.95
+			c3.266,0,5.319,2.334,5.319,5.95v1.096h-8.119c0.28,1.33,1.283,2.193,2.636,2.193c1.143,0,1.913-0.583,2.497-1.376L153.895,72.032
+			z M150.933,67.04c0.023-1.167-0.887-2.146-2.146-2.146c-1.54,0-2.38,1.05-2.473,2.146H150.933z"/>
+		<path d="M155.204,62.653h3.733l2.31,7.116h0.047l1.937-7.116h3.826l2.1,7.116h0.047l2.123-7.116h3.546l-4.036,11.339h-3.453
+			l-2.356-7.536h-0.047l-2.1,7.536h-3.523L155.204,62.653z"/>
+		<path d="M183.671,66.316c-0.351-0.49-1.004-0.863-1.727-0.863c-1.75,0-2.8,1.167-2.8,2.87s1.05,2.869,2.8,2.869
+			c0.77,0,1.33-0.396,1.727-0.863l2.31,2.427c-1.097,1.12-2.706,1.517-4.036,1.517c-3.5,0-6.299-2.333-6.299-5.949
+			s2.799-5.95,6.299-5.95c1.33,0,2.939,0.397,4.036,1.517L183.671,66.316z"/>
+		<path d="M194.358,72.569h-0.047c-0.77,1.213-2.17,1.703-3.593,1.703c-2.123,0-4.036-1.214-4.036-3.5
+			c0-3.92,4.76-3.989,7.676-3.989c0-1.236-1.026-2.03-2.24-2.03c-1.143,0-2.1,0.514-2.846,1.354l-1.867-1.913
+			c1.283-1.213,3.15-1.82,4.993-1.82c4.083,0,5.18,2.077,5.18,5.856v5.763h-3.22V72.569z M193.495,69.022
+			c-1.073,0-3.453,0.094-3.453,1.634c0,0.84,0.887,1.236,1.656,1.236c1.377,0,2.66-0.724,2.66-2.123v-0.747H193.495z"/>
+		<path d="M206.188,65.99c-0.513-0.631-1.189-0.957-2.029-0.957c-0.584,0-1.283,0.257-1.283,0.934c0,1.68,5.902,0.256,5.902,4.572
+			c0,2.894-2.8,3.733-5.227,3.733c-1.586,0-3.336-0.396-4.456-1.54l2.123-2.356c0.653,0.793,1.424,1.236,2.474,1.236
+			c0.793,0,1.586-0.21,1.586-0.816c0-1.819-5.902-0.28-5.902-4.596c0-2.66,2.38-3.827,4.76-3.827c1.493,0,3.149,0.374,4.199,1.493
+			L206.188,65.99z"/>
+		<path d="M218.299,65.453h-3.08v3.779c0,1.214,0.141,2.1,1.657,2.1c0.373,0,1.119-0.046,1.423-0.326v2.916
+			c-0.77,0.28-1.633,0.351-2.45,0.351c-2.333,0-4.129-0.957-4.129-3.43v-5.39h-2.24v-2.8h2.24v-3.359h3.499v3.359h3.08V65.453z"/>
+		<path d="M220.12,56.354h3.5v17.638h-3.5V56.354z"/>
+		<path d="M236.873,72.032c-1.12,1.424-2.963,2.24-4.783,2.24c-3.499,0-6.299-2.333-6.299-5.949s2.8-5.95,6.299-5.95
+			c3.267,0,5.319,2.334,5.319,5.95v1.096h-8.119c0.28,1.33,1.283,2.193,2.637,2.193c1.144,0,1.913-0.583,2.496-1.376L236.873,72.032
+			z M233.91,67.04c0.023-1.167-0.887-2.146-2.146-2.146c-1.54,0-2.38,1.05-2.474,2.146H233.91z"/>
+		<path d="M260.813,67.623c0,3.896-2.38,6.789-6.953,6.789c-4.596,0-6.976-2.893-6.976-6.789V57.473h3.64v10.01
+			c0,2.029,1.399,3.569,3.336,3.569c1.913,0,3.313-1.54,3.313-3.569v-10.01h3.64V67.623z"/>
+		<path d="M263.732,62.653h3.359v1.54h0.047c0.467-0.887,1.61-1.82,3.313-1.82c3.546,0,4.199,2.334,4.199,5.366v6.253h-3.5v-5.553
+			c0-1.307-0.022-2.986-1.819-2.986c-1.82,0-2.1,1.423-2.1,2.893v5.646h-3.5V62.653z"/>
+		<path d="M278.923,57.053c1.12,0,2.029,0.91,2.029,2.03s-0.909,2.029-2.029,2.029s-2.03-0.909-2.03-2.029
+			S277.803,57.053,278.923,57.053z M277.173,62.653h3.5v11.339h-3.5V62.653z"/>
+		<path d="M290.916,65.453h-3.08v3.779c0,1.214,0.141,2.1,1.657,2.1c0.373,0,1.119-0.046,1.423-0.326v2.916
+			c-0.77,0.28-1.633,0.351-2.45,0.351c-2.333,0-4.129-0.957-4.129-3.43v-5.39h-2.24v-2.8h2.24v-3.359h3.499v3.359h3.08V65.453z"/>
+		<path d="M303.423,72.032c-1.12,1.424-2.963,2.24-4.783,2.24c-3.499,0-6.299-2.333-6.299-5.949s2.8-5.95,6.299-5.95
+			c3.267,0,5.319,2.334,5.319,5.95v1.096h-8.119c0.28,1.33,1.283,2.193,2.637,2.193c1.144,0,1.913-0.583,2.496-1.376L303.423,72.032
+			z M300.46,67.04c0.023-1.167-0.887-2.146-2.146-2.146c-1.54,0-2.38,1.05-2.474,2.146H300.46z"/>
+		<path d="M317.983,73.992h-3.219v-1.493h-0.047c-0.537,0.816-1.89,1.773-3.477,1.773c-3.359,0-5.576-2.427-5.576-5.856
+			c0-3.149,1.96-6.043,5.18-6.043c1.446,0,2.8,0.397,3.593,1.493h0.047v-7.512h3.499V73.992z M311.965,65.453
+			c-1.75,0-2.8,1.167-2.8,2.87s1.05,2.869,2.8,2.869c1.749,0,2.8-1.166,2.8-2.869S313.714,65.453,311.965,65.453z"/>
+		<path d="M328.275,57.473h11.083v3.36h-7.443v3.359h6.883v3.359h-6.883v6.439h-3.64V57.473z"/>
+		<path d="M352.774,61.766c-0.723-0.863-1.772-1.353-3.126-1.353c-2.753,0-4.782,2.239-4.782,5.319c0,3.079,2.029,5.319,4.666,5.319
+			c1.47,0,2.659-0.653,3.406-1.773l3.032,2.263c-1.376,1.96-3.709,2.87-5.973,2.87c-5.155,0-8.912-3.383-8.912-8.679
+			s3.757-8.68,8.912-8.68c1.844,0,4.177,0.63,5.576,2.427L352.774,61.766z"/>
+	</g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+</svg>
